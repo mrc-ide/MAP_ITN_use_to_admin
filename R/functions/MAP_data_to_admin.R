@@ -3,13 +3,17 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
   
   #Load and subset shapefile
   SSA_shapefile <- readOGR(paste0("data/shp/SSA_shapefile_", admin_level, ".shp"), encoding = "UTF-8")
-  country_shapefile <- SSA_shapefile[which(SSA_shapefile$GID_0 %in% ISO), ]
+  country_shapefile <- SSA_shapefile[which(SSA_shapefile$GID_0 %in% if(any(grepl(";", ISO))) strsplit(ISO, ";")[[1]] else ISO), ]
+  
+  message("Shapefile loaded")
   
   #Set up and load MAP data
   data_list <- list.files(paste0("data/MAP_raster/", type, "/"), pattern = as.character(year), full.names = T)
   data <- data_list[grepl(data_type, data_list)]
   MAP_data_loaded <- raster(data)
   MAP_data_country <- rasterize(country_shapefile, crop(MAP_data_loaded, extent(country_shapefile)), mask = T)
+  
+  message("MAP data loaded")
   
   #Load population data and subset
   population_all <- raster(list.files("data/population/", pattern = as.character(year), full.names = T))
@@ -23,6 +27,8 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
   pts2 <- SpatialPointsDataFrame(pts, data.frame(vals))
   population_country_agg_resampled <- rasterize(pts2, template, field = "vals", fun = sum, na.rm = T)
   
+  message("Population data loaded and processed")
+  
   #Now update MAP data country to the same extent
   #Have to go the long way round to create population raster with an identical extent/res and conserve all the population
   template <- raster(extent(population_country_agg_resampled), crs = crs(population_country_agg_resampled), resolution = res(population_country_agg_resampled))
@@ -31,8 +37,13 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
   pts2 <- SpatialPointsDataFrame(pts, data.frame(vals))
   MAP_data_country_resampled <- rasterize(pts2, template, field = "vals", fun = sum, na.rm = T)
   
+  message("MAP data processed")
+  
   #Now we're ready to go - loop by admin unit to make it easier to debug/overall faster
   all_processed <- as.data.frame(rbindlist(sapply(1:nrow(country_shapefile), function(x){
+    
+    message(paste0(x, " of ", nrow(country_shapefile)))
+    
     #Subset to admin and extract data for dataframe
     this_admin <- country_shapefile[x, ]
     these_cols <- as.data.frame(this_admin[, grepl("GID_0|NAME_|ID_", names(this_admin))])
@@ -43,9 +54,9 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
     pop_admin <- rasterize(this_admin, crop(population_country_agg_resampled, extent(this_admin)), mask = T)
     
     data.frame(these_cols,
-                  population = sum(pop_admin[], na.rm = T),
-                  ITN_coverage_mean = mean(ITN_admin[], na.rm = T),
-                  ITN_coverage_pop_weighted = sum((ITN_admin * pop_admin)[], na.rm = T)/sum(pop_admin[], na.rm = T))
+               population = sum(pop_admin[], na.rm = T),
+               ITN_coverage_mean = mean(ITN_admin[], na.rm = T),
+               ITN_coverage_pop_weighted = sum((ITN_admin * pop_admin)[], na.rm = T)/sum(pop_admin[], na.rm = T))
     
   }, simplify = FALSE)))
   

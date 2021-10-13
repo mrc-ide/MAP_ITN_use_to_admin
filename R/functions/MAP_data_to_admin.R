@@ -1,3 +1,11 @@
+# ISO = run_these[189, ]$ISO
+# admin_level = run_these[189, ]$admin_level
+# year = run_these[189, ]$year
+# type = run_these[189, ]$type
+# data_type = run_these[189, ]$data_type
+
+
+
 
 MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
   
@@ -75,14 +83,14 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
     labs(fill = "ITN coverage (%)")
   
   #Set up save location
-  save_dir <- paste0("output/ITN_coverage/", admin_level, "/", ISO, "/")
+  save_dir <- paste0("output/ITN_coverage/", admin_level, "/", gsub(";", "", ISO), "/")
   if(!dir.exists(paste0(save_dir, "figs/"))) dir.create(paste0(save_dir, "figs/"), recursive = T)
   
-  write.csv(x = all_processed, 
-            file = paste0(save_dir, "/", paste(c(ISO, admin_level, year, type, data_type), collapse = "_"), ".csv"),
+  write.csv(x = all_processed,
+            file = paste0(save_dir, paste(c(admin_level, year, type, data_type), collapse = "_"), ".csv"),
             row.names = FALSE)
   
-  ggsave(filename = paste0(paste0(save_dir, "figs/"), paste(c(ISO, admin_level, year, type, data_type), collapse = "_"), ".png"), 
+  ggsave(filename = paste0(paste0(save_dir, "figs/"), paste(c(admin_level, year, type, data_type), collapse = "_"), ".png"), 
          plot = ITN_map, 
          width = 4,
          height = 4,

@@ -9,7 +9,7 @@ config <- didehpc::didehpc_config(shares = malaria, use_rrq =  FALSE,
                                   cluster = "fi--didemrchnb", cores = 1,
                                   parallel = FALSE, template = "24Core")
 
-packages <- c("raster", "rgdal", "rgeos", "ggplot2", "tidyverse")
+packages <- c("raster", "rgdal", "rgeos", "ggplot2", "tidyverse", "data.table")
 
 
 sources = c("cluster/cluster_source_all.R")

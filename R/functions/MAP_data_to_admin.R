@@ -55,7 +55,7 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
     #Subset to admin and extract data for dataframe
     this_admin <- country_shapefile[x, ]
     these_cols <- as.data.frame(this_admin[, grepl("GID_0|NAME_|ID_", names(this_admin))])
-    these_cols <- these_cols[-which(grepl("VARNAME|NL_NAME", colnames(these_cols)))]
+    if(any(grepl("VARNAME|NL_NAME", names(these_cols)))) these_cols <- these_cols[-which(grepl("VARNAME|NL_NAME", names(these_cols)))]
     
     #Work out ITN coverage
     ITN_admin <- rasterize(this_admin, crop(MAP_data_country_resampled, extent(this_admin)), mask = T)

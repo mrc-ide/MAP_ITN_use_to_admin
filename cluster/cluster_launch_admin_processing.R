@@ -43,3 +43,29 @@ grp <- obj$enqueue_bulk(run_these,
                         MAP_data_to_admin, do_call = TRUE, progress = TRUE)
 
 
+#Now combine
+all_datasets <- sapply(c("adm0", "adm1", "adm2"), function(x){
+  these <- paste0("U:/Arran/MAP_ITN_use_to_admin/output/ITN_coverage/", x, "/AGOBDIBENBFACAFCIVCMRCODCOGCPVDJIERIETHGABGHAGINGMBGNBGNQKENLBRMDGMLIMOZMRTMUSMWINERNGARWASDNSENSLESOMSSDSTPSYCTCDTGOTZAUGAZMBZWE")
+  all_ran <- list.files(these, full.names = T, ".csv")
+  rbindlist(sapply(all_ran, function(y){
+    this <- read.csv(y)
+    this$type <- gsub(".csv", "", last(strsplit(y, "_")[[1]]))
+    this$year <- strsplit(y, "_")[[1]][7]
+    this
+  }, simplify = FALSE))
+}, simplify = FALSE)
+
+write.csv(all_datasets[[1]], file = "output/ITN_coverage/SSA_ITN_use_adm0.csv", row.names = FALSE)
+write.csv(all_datasets[[2]], file = "output/ITN_coverage/SSA_ITN_use_adm1.csv", row.names = FALSE)
+write.csv(all_datasets[[3]], file = "output/ITN_coverage/SSA_ITN_use_adm2.csv", row.names = FALSE)
+
+
+
+
+
+
+
+
+
+
+

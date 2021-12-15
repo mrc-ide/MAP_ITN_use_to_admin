@@ -15,22 +15,33 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
   
   message("Shapefile loaded")
   
-  #Set up and load MAP data
+  #Set up and load MAP data - These years are different because of different availability of data
   year_max <- ifelse(type == "ITN_use", 2020,
                      ifelse(type == "IRS_use", 2017, 2019))
   
+  #This is to not select a year that doesnt exist, or for relative abundance just select the only file
   pattern_find <- ifelse(type == "relative_abundance", ".tif", 
                          ifelse(type == "ITN_use",
                                 paste0("ITN_", year_max, "_use_", data_type),
-                                paste0(as.character(pmin(year, year_max)), ".tif")))
+                                paste0(as.character(pmax(pmin(year, year_max), 2000)), ".tif")))
   
+  if(pmax(pmin(year, year_max), 2000) != year){
+    message("Warning - Year requested not availabile, ", year, ", using ", pmax(pmin(year, year_max), 2000), " instead")
+  }
+  
+  #List the data file to load
   data <- list.files(paste0("data/MAP_raster/", type, "/"), pattern = pattern_find, full.names = T)
   
+  #Load the data and crop to the country in question
   MAP_data_loaded <- if(type == "relative_abundance") stack(sapply(1:3, function(a) raster(data, band = a), simplify = FALSE)) else raster(data)
   MAP_data_country <- rasterize(country_shapefile, crop(MAP_data_loaded, extent(country_shapefile)), mask = T)
   
   message("MAP data loaded")
 
+  
+  #This section is done to make sure that the population and MAP raster are identical in projection, extent and number of cells in order
+  #to accurately create a population weighted dataset
+  
   #Load population data and subset
   population_all <- raster(list.files("data/population/", pattern = as.character(year), full.names = T))
   population_country <- rasterize(country_shapefile, crop(population_all, extent(country_shapefile)), mask = T)
@@ -75,11 +86,12 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
     if(any(grepl("VARNAME|NL_NAME", names(these_cols)))) these_cols <- these_cols[-which(grepl("VARNAME|NL_NAME", names(these_cols)))]
     
     #Work out ITN coverage
-    ITN_admin <- rasterize(this_admin, crop(MAP_data_country_resampled, extent(this_admin)), mask = T)
+    value_admin <- rasterize(this_admin, crop(MAP_data_country_resampled, extent(this_admin)), mask = T)
     pop_admin <- rasterize(this_admin, crop(population_country_agg_resampled, extent(this_admin)), mask = T)
     
     if(type == "relative_abundance"){
       
+      #Bespoke dataframe needed for the relative abundance
       relative_abundance_admin <- rasterize(this_admin, crop(MAP_data_country_resampled, extent(this_admin)), mask = T)@data@values
       relative_abundance_admin_pop <- relative_abundance_admin * pop_admin[]
       
@@ -94,19 +106,20 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
                  t(relative_abundance_all),
                  t(relative_abundance_all_pop))
     } else {
+      
       data.frame(these_cols,
                  population = sum(pop_admin[], na.rm = T),
-                 coverage_mean = mean(ITN_admin[], na.rm = T),
-                 coverage_pop_weighted = sum((ITN_admin * pop_admin)[], na.rm = T)/sum(pop_admin[], na.rm = T))
+                 coverage_mean = mean(value_admin[], na.rm = T),
+                 coverage_pop_weighted = sum((value_admin * pop_admin)[], na.rm = T)/sum(pop_admin[], na.rm = T))
     }
     
   }, simplify = FALSE)))
   
   all_processed$year <- year
   
-  #Set up save location
+  #Set up save location and save
   save_dir <- paste0("output/", type, "/", admin_level, "/", gsub(";", "", ISO), "/")
-  if(!dir.exists(paste0(save_dir, "figs/"))) dir.create(paste0(save_dir, "figs/"), recursive = T)
+  if(!dir.exists(save_dir)) dir.create(save_dir, recursive = T)
   
   write.csv(x = all_processed,
             file = paste0(save_dir, paste(c(admin_level, year, type, data_type), collapse = "_"), ".csv"),

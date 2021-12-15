@@ -1,0 +1,63 @@
+"GID_0","NAME_0","GID_1","NAME_1","GID_2","NAME_2","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"STP","São Tomé and Príncipe","STP.1_1","Príncipe","STP.1.1_1","Pagué",6591.27982330322,0,0,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé","STP.2.1_1","Água Grande",0,NA,NA,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé","STP.2.2_1","Cantagalo",19062.6756954193,0,0,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé","STP.2.3_1","Caué",8395.11668395996,0,0,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé","STP.2.4_1","Lembá",12817.6800727844,0,0,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé","STP.2.5_1","Lobata",27338.6918296814,0,0,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé","STP.2.6_1","Mé-Zóchi",54968.1128253937,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.1_1","Hhukwini",13505.956817627,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.2_1","Lobamba",25313.129740715,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.3_1","Madlangempisi",16049.2829582095,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.4_1","Mayiwane",16208.9784317017,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.5_1","Mbabane East",39678.3234062195,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.6_1","Mbabane West",21197.0282859802,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.7_1","Mhlangatane",25305.906537056,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.8_1","Motjane",25557.1729354858,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.9_1","Mphalaleni",21335.4755411148,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.10_1","Ndzingeni",22778.4329996109,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.11_1","Nkhaba",30112.6709107161,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.12_1","Ntfonjeni",22893.8919568062,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.13_1","Pigg's Peak",19262.4070281982,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho","SWZ.1.14_1","Timpisini",8834.26952338219,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.1_1","Dvokodvweni",32716.3656144142,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.2_1","Hlane",10851.7690181732,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.3_1","Lomahasha",18085.5529899597,0.0385932763417562,0.0148524634383558,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.4_1","Lubuli",13967.9883832932,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.5_1","Lugongolweni",9152.55030488968,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.6_1","Matsanjeni North",12549.9410362244,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.7_1","Mhlume",20757.599263832,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.8_1","Mpholonjeni",18221.1535201073,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.9_1","Nkilongo",19024.5671334267,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.10_1","Siphofaneni",27609.6289520264,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo","SWZ.2.11_1","Sithobela",30767.9836812019,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.1_1","Ekukhanyeni",21588.9889240265,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.2_1","Kwaluseni",41747.5893707275,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.3_1","Lamgabhi",14630.7621908188,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.4_1","Lobamba Lomdzala",24570.4533157349,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.5_1","Ludzeludze",25086.4226799011,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.6_1","Mafutseni",18816.2986907959,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.7_1","Mahlangatja",17658.4379997253,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.8_1","Mangcongco",7783.49564564228,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.9_1","Manzini North",63788.3915596008,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.10_1","Manzini South",0,NA,NA,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.11_1","Mhlambanyatsi",13003.7303700447,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.12_1","Mkhiweni",28017.024518013,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.13_1","Mthongwaneni",21874.5488452911,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.14_1","Ngwenpisi",31252.86954391,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.15_1","Nhlambeni",22252.8155198097,0,0,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini","SWZ.3.16_1","Ntondozi",14667.8556747437,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.1_1","Gege",15014.0472542048,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.2_1","Hosea",16194.8036594391,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.3_1","Kubuta",7449.70311927795,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.4_1","Maseyisini",19679.4081840515,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.5_1","Matsanjeni South",15791.2922506332,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.6_1","Mbangweni",28463.3188209534,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.7_1","Mtsambama",19419.2996044159,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.8_1","Ngudzeni",6782.33810997009,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.9_1","Nkwene",8000.91499042511,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.10_1","Sandleni",13291.487154007,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.11_1","Shiselweni",13133.5628871918,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.12_1","Sigwe",12232.3222112656,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.13_1","Somntongo",3403.08281159401,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni","SWZ.4.14_1","Zombodze",13126.8361053467,0,0,2020

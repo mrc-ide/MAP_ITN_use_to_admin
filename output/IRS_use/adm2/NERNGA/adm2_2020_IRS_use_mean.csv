@@ -1,0 +1,812 @@
+"GID_0","NAME_0","GID_1","NAME_1","GID_2","NAME_2","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"NER","Niger","NER.1_1","Agadez","NER.1.1_1","Arlit",175536.281983268,0,0,2020
+"NER","Niger","NER.1_1","Agadez","NER.1.2_1","Bilma",18574.8671163898,0,0,2020
+"NER","Niger","NER.1_1","Agadez","NER.1.3_1","Tchighozerine",477185.220457226,0,0,2020
+"NER","Niger","NER.2_1","Diffa","NER.2.1_1","Diffa",309366.267893791,0,0,2020
+"NER","Niger","NER.2_1","Diffa","NER.2.2_1","Maïné-Soroa",326840.057140946,0,0,2020
+"NER","Niger","NER.2_1","Diffa","NER.2.3_1","N'Guigmi",253148.733499475,0,0,2020
+"NER","Niger","NER.3_1","Dosso","NER.3.1_1","Boboye",448592.618844032,0,0,2020
+"NER","Niger","NER.3_1","Dosso","NER.3.2_1","Dogon-Doutchi",798504.216205597,0,0,2020
+"NER","Niger","NER.3_1","Dosso","NER.3.3_1","Dosso",583484.676355362,0,0,2020
+"NER","Niger","NER.3_1","Dosso","NER.3.4_1","Gaya",458426.823579788,0,0,2020
+"NER","Niger","NER.3_1","Dosso","NER.3.5_1","Loga",263216.007314682,0,0,2020
+"NER","Niger","NER.4_1","Maradi","NER.4.1_1","Aguié",553441.993789673,0,0,2020
+"NER","Niger","NER.4_1","Maradi","NER.4.2_1","Dakoro",962702.30707252,0,0,2020
+"NER","Niger","NER.4_1","Maradi","NER.4.3_1","Groumdji",887124.054597855,0,0,2020
+"NER","Niger","NER.4_1","Maradi","NER.4.4_1","Madarounfa",866311.143468857,0,0,2020
+"NER","Niger","NER.4_1","Maradi","NER.4.5_1","Mayahi",701111.910098076,0,0,2020
+"NER","Niger","NER.4_1","Maradi","NER.4.6_1","Tessaoua",657630.235661507,0,0,2020
+"NER","Niger","NER.5_1","Niamey","NER.5.1_1","Niamey",1192047.65099335,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.1_1","Bkonni",762538.769621849,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.2_1","Bouza",592992.963054657,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.3_1","Illéla",546091.5028162,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.4_1","Keita",550897.604946136,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.5_1","Madaoua",824988.356750488,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.6_1","Tahoua",745415.064242363,0,0,2020
+"NER","Niger","NER.6_1","Tahoua","NER.6.7_1","Tchin-Tabarade",996447.176008843,0,0,2020
+"NER","Niger","NER.7_1","Tillabéry","NER.7.1_1","Filingué",676405.081345558,0,0,2020
+"NER","Niger","NER.7_1","Tillabéry","NER.7.2_1","Kollo",604397.971756935,0,0,2020
+"NER","Niger","NER.7_1","Tillabéry","NER.7.3_1","Ouallam",493226.153379917,0,0,2020
+"NER","Niger","NER.7_1","Tillabéry","NER.7.4_1","Say",640372.287046909,0,0,2020
+"NER","Niger","NER.7_1","Tillabéry","NER.7.5_1","Téra",960464.47342968,0,0,2020
+"NER","Niger","NER.7_1","Tillabéry","NER.7.6_1","Tillabéry",350672.962132454,0,0,2020
+"NER","Niger","NER.8_1","Zinder","NER.8.1_1","Gouré",519251.731817804,0,0,2020
+"NER","Niger","NER.8_1","Zinder","NER.8.2_1","Magaria",1457817.71610832,0,0,2020
+"NER","Niger","NER.8_1","Zinder","NER.8.3_1","Matameye",572401.052845001,0,0,2020
+"NER","Niger","NER.8_1","Zinder","NER.8.4_1","Mirriah",2013874.28542948,0,0,2020
+"NER","Niger","NER.8_1","Zinder","NER.8.5_1","Tanout",696747.167744972,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.1_1","Aba North",0,NA,NA,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.2_1","Aba South",540513.90447998,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.3_1","Arochukw",244450.516029358,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.4_1","Bende",264839.975814819,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.5_1","Ikwuano",192915.052993774,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.6_1","Isiala Ngwa North",268902.366210938,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.7_1","Isiala Ngwa South",179685.788452148,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.8_1","Isuikwua",200619.159461975,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.9_1","Oboma Ngwa",506401.589630127,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.10_1","Ohafia Abia",372552.689079285,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.11_1","Osisioma Ngwa",361332.655609131,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.12_1","Ugwunagbo",83834.1329956055,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.13_1","Ukwa East",81231.8097305298,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.14_1","Ukwa West",160288.529022217,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.15_1","Umu-Nneochi",263753.778038025,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.16_1","Umuahia North",287240.525039673,0,0,2020
+"NGA","Nigeria","NGA.1_1","Abia","NGA.1.17_1","Umuahia South",234120.299835205,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.1_1","Demsa",337387.126261115,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.2_1","Fufore",267696.335760117,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.3_1","Ganye",224521.671212673,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.4_1","Girie",196494.82692337,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.5_1","Gombi",188326.1670084,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.6_1","Guyuk",253928.445116997,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.7_1","Hong",241908.646603584,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.8_1","Jada",234772.058064461,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.9_1","Lamurde",164176.569992304,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.10_1","Madagali",205986.184593201,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.11_1","Maiha",121995.770563126,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.12_1","Mayo-Bel",259728.127696991,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.13_1","Michika",214649.42855072,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.14_1","Mubi North",221666.756183624,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.15_1","Mubi South",190744.125976562,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.16_1","Numan",139297.530587912,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.17_1","Shelleng",202876.025175095,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.18_1","Song",296439.555649757,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.19_1","Teungo",75982.1681032181,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.20_1","Yola North",314499.765441895,0,0,2020
+"NGA","Nigeria","NGA.2_1","Adamawa","NGA.2.21_1","Yola South",236382.227937698,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.1_1","Abak",192957.632110596,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.2_1","Eastern Obolo",80528.9967346191,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.3_1","Eket",308353.96862793,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.4_1","Esit Eket",119818.229217529,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.5_1","Essien-U",298888.630432129,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.6_1","EtimEkpo",159671.193740845,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.7_1","Etinan",267998.316070557,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.8_1","Ibeno",105570.441398621,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.9_1","Ibesikpo Asutan",221571.158111572,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.10_1","Ibiono Ibom",309468.3070755,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.11_1","Ika",134030.172775269,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.12_1","Ikono",193694.334564209,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.13_1","Ikot-Aba",191023.537719727,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.14_1","Ikot-Ekp",244467.354095459,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.15_1","Ini",161483.958610535,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.16_1","Itu",227262.377807617,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.17_1","Mbo",135453.661209106,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.18_1","Mkpat Enin",253766.112487793,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.19_1","Nsit Atai",122301.317047119,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.20_1","Nsit Ibom",128452.885375977,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.21_1","Nsit Ubium",210667.730804443,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.22_1","Obot Akara",212733.45664978,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.23_1","Okobo",164459.400375366,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.24_1","Onna",164495.999389648,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.25_1","Oron",102183.27584362,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.26_1","Oruk-Ana",259229.712661743,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.27_1","Udung Uko",62946.0010375977,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.28_1","Ukanafun",202149.393997192,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.29_1","Uruan",195380.238571167,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.30_1","UrueOffo",115140.738677979,0,0,2020
+"NGA","Nigeria","NGA.3_1","Akwa Ibom","NGA.3.31_1","Uyo",442785.650360107,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.1_1","Aguata",483455.706176758,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.2_1","Anambra East",322503.694732666,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.3_1","Anambra West",225685.757299423,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.4_1","Anaocha",337841.041259766,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.5_1","AwkaNort",146063.424949646,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.6_1","AwkaSout",311552.832672119,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.7_1","Ayamelum",221591.9688797,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.8_1","Dunukofia",133665.723693848,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.9_1","Ekwusigo",222825.317749023,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.10_1","Idemili North",552983.566986084,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.11_1","Idemili South",283129.856719971,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.12_1","Ihiala",397092.185180664,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.13_1","Njikoka",196542.248016357,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.14_1","NnewiNort",142547.948730469,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.15_1","NnewiSou",439516.038574219,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.16_1","Ogbaru",315385.69314003,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.17_1","Onitsha North",0,NA,NA,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.18_1","Onitsha South",134807.002410889,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.19_1","OrumbaNo",289860.818595886,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.20_1","OrumbaSo",273305.053863525,0,0,2020
+"NGA","Nigeria","NGA.4_1","Anambra","NGA.4.21_1","Oyi",439160.5546875,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.1_1","Alkaleri",489003.659104347,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.2_1","Bauchi",798151.571733475,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.3_1","Bogoro",132147.289894104,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.4_1","Damban",230769.800315857,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.5_1","Darazo",387874.90927887,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.6_1","Dass",140247.753797531,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.7_1","Gamawa",448002.327690125,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.8_1","Gamjuwa",433087.737459183,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.9_1","Giade",246880.198013306,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.10_1","Itas/Gad",344904.365076065,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.11_1","Jama'are",177241.37512207,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.12_1","Katagum",473555.848413467,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.13_1","Kirfi",217321.418493271,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.14_1","Misau",422857.533561707,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.15_1","Ningi",587800.363694191,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.16_1","Shira",350445.90983963,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.17_1","Tafawa-B",339219.678060532,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.18_1","Toro",540095.012389183,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.19_1","Warji",176729.062004089,0,0,2020
+"NGA","Nigeria","NGA.5_1","Bauchi","NGA.5.20_1","Zaki",290659.829509735,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.1_1","Brass",222486.242420197,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.2_1","Ekeremor",395622.382091522,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.3_1","Kolokuma/Opokuma",144042.968906403,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.4_1","Nembe",184941.639896393,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.5_1","Ogbia",280731.507019043,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.6_1","Sagbama",292813.336654663,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.7_1","Southern Ijaw",475652.491034508,0,0,2020
+"NGA","Nigeria","NGA.6_1","Bayelsa","NGA.6.8_1","Yenegoa",547920.736919403,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.1_1","Ado",284341.541500092,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.2_1","Agatu",179765.353546143,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.3_1","Apa",140586.270458221,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.4_1","Buruku",330644.269334793,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.5_1","Gboko",529793.548377991,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.6_1","Guma",294086.132669449,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.7_1","Gwer East",266132.925630569,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.8_1","GwerWest",174397.607883453,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.9_1","Katsina (Benue)",306326.980024338,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.10_1","Konshish",341663.896869659,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.11_1","Kwande",366887.238794327,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.12_1","Logo",254190.383220673,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.13_1","Makurdi",457709.455766678,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.14_1","Obi",136397.751861572,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.15_1","Ogbadibo",191092.373062134,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.16_1","Ohimini",156174.575374603,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.17_1","Oju",254389.442539215,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.18_1","Okpokwu",231755.139823914,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.19_1","Oturkpo",367841.70198822,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.20_1","Tarka",121411.35039711,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.21_1","Ukum",326362.269197464,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.22_1","Ushongo",311280.368904114,0,0,2020
+"NGA","Nigeria","NGA.7_1","Benue","NGA.7.23_1","Vandeiky",336398.564094543,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.1_1","Abadam",130875.523431778,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.2_1","Askira/U",234039.274666786,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.3_1","Bama",413011.942566872,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.4_1","Bayo",130347.053155899,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.5_1","Biu",282105.616625786,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.6_1","Chibok",113216.160380363,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.7_1","Damboa",365425.782587528,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.8_1","Dikwa",178905.954298973,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.9_1","Gubio",236725.958368301,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.10_1","Guzamala",144213.305959702,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.11_1","Gwoza",425307.629392624,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.12_1","Hawul",197416.468465805,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.13_1","Jere",470674.528991699,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.14_1","Kaga",148981.000869751,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.15_1","Kala/Balge",86906.3977079391,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.16_1","Konduga",423352.243767858,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.17_1","Kukawa",185824.234512329,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.18_1","Kwaya Kusar",89627.0317401886,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.19_1","Lake Chad",214849.076550841,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.20_1","Mafa",165568.000209332,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.21_1","Magumeri",220724.687118053,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.22_1","Maidugur",558578.555526733,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.23_1","Marte",187945.39382267,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.24_1","Mobbar",194941.219727516,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.25_1","Monguno",159945.193788528,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.26_1","Ngala",336277.742300034,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.27_1","Nganzai",155945.427972794,0,0,2020
+"NGA","Nigeria","NGA.8_1","Borno","NGA.8.28_1","Shani",162463.421993256,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.1_1","Abi",241352.148513794,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.2_1","Akamkpa",224870.521353722,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.3_1","Akpabuyo",435395.709324121,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.4_1","Bakassi",49647.1930198669,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.5_1","Bekwarra",152765.043357849,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.6_1","Biase",247431.269300461,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.7_1","Boki",275287.373509407,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.8_1","Calabar",241001.301353455,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.9_1","Calabar South",268660.096286774,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.10_1","Etung",113860.571212292,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.11_1","Ikom",244195.151151657,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.12_1","Obanliku",174379.147277832,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.13_1","Obubra",261304.842767715,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.14_1","Obudu",234371.535743713,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.15_1","Odukpani",313294.416096687,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.16_1","Ogoja",265883.76877594,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.17_1","Yakurr",280905.218400955,0,0,2020
+"NGA","Nigeria","NGA.9_1","Cross River","NGA.9.18_1","Yala Cross",301938.460926056,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.1_1","AniochaN",185341.062454224,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.2_1","AniochaS",211411.786423683,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.3_1","Bomadi",125402.570701599,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.4_1","Burutu",307065.693344116,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.5_1","Ethiope West",316882.458015442,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.6_1","EthiopeE",270718.42905426,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.7_1","IkaNorth",259531.603149414,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.8_1","IkaSouth",261647.369657516,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.9_1","IsokoNor",210261.653640747,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.10_1","IsokoSou",360587.209762573,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.11_1","Ndokwa East",179163.87704277,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.12_1","Ndokwa West",232959.408950806,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.13_1","Okpe",244443.335159302,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.14_1","Oshimili North",152563.914230347,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.15_1","Oshimili South",348909.513046265,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.16_1","Patani",100840.149925232,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.17_1","Sapele",281208.373573303,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.18_1","Udu",192259.418884277,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.19_1","Ughelli North",497942.255203247,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.20_1","Ughelli South",331113.990219116,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.21_1","Ukwuani",179601.435470581,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.22_1","Uvwie",259439.921051025,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.23_1","Warri North",192172.364319801,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.24_1","Warri South",447507.717472076,0,0,2020
+"NGA","Nigeria","NGA.10_1","Delta","NGA.10.25_1","Warri South-West",151938.929627776,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.1_1","Abakalik",247347.139507294,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.2_1","Afikpo",209791.740844727,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.3_1","AfikpoSo",232982.851249695,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.4_1","Ebonyi",197493.080265045,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.5_1","Ezza North",180191.409393311,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.6_1","Ezza South",189626.247451782,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.7_1","Ikwo",303723.983345032,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.8_1","Ishielu",215867.241588593,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.9_1","Ivo",154071.021331787,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.10_1","Izzi",333740.822467804,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.11_1","Ohaozara",209815.332092285,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.12_1","Ohaukwu",289282.505874634,0,0,2020
+"NGA","Nigeria","NGA.11_1","Ebonyi","NGA.11.13_1","Onicha",378145.027915955,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.1_1","Akoko-Ed",391567.629211426,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.2_1","Egor",438314.564491272,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.3_1","EsanCent",157176.889381409,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.4_1","EsanNort",159997.323940277,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.5_1","EsanSout",253309.565292358,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.6_1","EsanWest",191335.314899445,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.7_1","Etsako Central",126122.595555305,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.8_1","EtsakoEa",255306.900513172,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.9_1","EtsakoWe",308467.335767746,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.10_1","Igueben",94058.3242683411,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.11_1","Ikpoba-Okha",574644.843364716,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.12_1","Oredo Edo",518178.044757843,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.13_1","Orhionmw",330358.357896805,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.14_1","OviaNort",251980.173358917,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.15_1","OviaSouth-West",215741.82384491,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.16_1","Owan East",223128.122724533,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.17_1","OwanWest",127139.816836357,0,0,2020
+"NGA","Nigeria","NGA.12_1","Edo","NGA.12.18_1","Uhunmwonde",188009.457660675,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.1_1","Ado-Ekiti",424233.305847168,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.2_1","Efon",120623.889373779,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.3_1","EkitiEas",188433.582710266,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.4_1","EkitiSouth-West",231559.827560425,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.5_1","EkitiWest",237914.48789978,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.6_1","Emure/Ise/Orun",128253.550979614,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.7_1","Gboyin",204238.224472046,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.8_1","Ido/Osi",236708.994674683,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.9_1","Ijero",368481.417366028,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.10_1","Ikere",222555.680358887,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.11_1","Ikole",248662.874925613,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.12_1","Ilejemeje",51124.2419509888,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.13_1","Irepodun/Ifelodun",260433.485855103,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.14_1","Ise/Orun",184544.387874603,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.15_1","Moba",181967.485862732,0,0,2020
+"NGA","Nigeria","NGA.13_1","Ekiti","NGA.13.16_1","Oye",222588.171726227,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.1_1","Aninri",203607.714019775,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.2_1","Awgu",271626.073013306,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.3_1","Enugu East",330899.480880737,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.4_1","Enugu North",405079.505554199,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.5_1","EnuguSou",296671.24609375,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.6_1","Ezeagu",255824.379039764,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.7_1","Igbo-Eti",304273.150588989,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.8_1","Igbo-eze North",381759.873092651,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.9_1","Igbo-eze South",216258.457176208,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.10_1","Isi-Uzo",226963.703006744,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.11_1","Nkanu East",260049.784095764,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.12_1","Nkanu West",207718.818328857,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.13_1","Nsukka",443042.834899902,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.14_1","Oji-River",220830.293174744,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.15_1","Udenu",246902.043212891,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.16_1","Udi",377759.135135651,0,0,2020
+"NGA","Nigeria","NGA.14_1","Enugu","NGA.14.17_1","Uzo-Uwani",182986.842939377,0,0,2020
+"NGA","Nigeria","NGA.15_1","Federal Capital Territory","NGA.15.1_1","Abaji",205971.413274765,0,0,2020
+"NGA","Nigeria","NGA.15_1","Federal Capital Territory","NGA.15.2_1","AbujaMun",2702919.14551353,0,0,2020
+"NGA","Nigeria","NGA.15_1","Federal Capital Territory","NGA.15.3_1","Bwari",725184.085548401,0,0,2020
+"NGA","Nigeria","NGA.15_1","Federal Capital Territory","NGA.15.4_1","Gwagwala",537107.985206604,0,0,2020
+"NGA","Nigeria","NGA.15_1","Federal Capital Territory","NGA.15.5_1","Kuje",322891.212240219,0,0,2020
+"NGA","Nigeria","NGA.15_1","Federal Capital Territory","NGA.15.6_1","Kwali",307771.478342056,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.1_1","Akko",800607.179410934,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.2_1","Balanga",326302.741624832,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.3_1","Billiri",317171.127017975,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.4_1","Dukku",324798.312856674,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.5_1","Funakaye",359641.112611055,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.6_1","Gombe",0,NA,NA,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.7_1","Kaltungo",249654.372695923,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.8_1","Kwami",380982.040685117,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.9_1","Nafada",222512.155063629,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.10_1","Shomgom",233314.962568283,0,0,2020
+"NGA","Nigeria","NGA.16_1","Gombe","NGA.16.11_1","Yamaltu",491897.953057766,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.1_1","Aboh-Mba",255563.146820068,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.2_1","Ahizu-Mb",288779.448486328,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.3_1","Ehime-Mb",149086.894470215,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.4_1","Ezinihit",196311.619689941,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.5_1","Ideato South",203969.542114258,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.6_1","IdeatoNo",258604.475769043,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.7_1","Ihitte/U",155099.359344482,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.8_1","Ikeduru",251975.200408936,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.9_1","IsialaMb",401646.381225586,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.10_1","Isu",228946.915283203,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.11_1","Mbaitoli",410442.523254395,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.12_1","Ngor-Okp",262543.507247925,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.13_1","Njaba",118197.522949219,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.14_1","Nkwerre",118549.244628906,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.15_1","Nwangele",163492.104736328,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.16_1","Obowo",241467.768371582,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.17_1","Oguta",225114.812042236,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.18_1","Ohaji/Eg",277799.664749146,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.19_1","Okigwe",236938.1222229,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.20_1","Orlu",334208.386901855,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.21_1","Orsu",193002.939331055,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.22_1","Oru East",191976.875488281,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.23_1","Oru West",167789.1847229,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.24_1","Owerri Municipal",161763.808166504,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.25_1","Owerri North",295107.460083008,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.26_1","Owerri West",165575.290130615,0,0,2020
+"NGA","Nigeria","NGA.17_1","Imo","NGA.17.27_1","Unuimo",106336.473144531,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.1_1","Auyo",233093.898434639,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.2_1","Babura",337219.491043091,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.3_1","Biriniwa",209539.502700806,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.4_1","BirninKu",463300.592906952,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.5_1","Buji",130590.166473389,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.6_1","Dutse",370144.83379364,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.7_1","Gagarawa",110508.912166595,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.8_1","Garki",229672.631439209,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.9_1","Gumel",150837.168647766,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.10_1","Guri",173748.854610443,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.11_1","Gwaram",416547.835443497,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.12_1","Gwiwa",198201.456634521,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.13_1","Hadejia",72982.138092041,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.14_1","Jahun",333051.036376953,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.15_1","KafinHau",377909.85231781,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.16_1","Kaugama",183822.503199577,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.17_1","Kazaure",206804.148246765,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.18_1","KiriKasa",232337.857460022,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.19_1","Kiyawa",272518.126857758,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.20_1","Maigatari",264202.019664764,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.21_1","MalamMad",357933.305641174,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.22_1","Miga",180780.213096619,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.23_1","Ringim",265322.110107422,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.24_1","Roni",75152.9770507812,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.25_1","Sule-Tan",194097.713603973,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.26_1","Taura",207450.102935791,0,0,2020
+"NGA","Nigeria","NGA.18_1","Jigawa","NGA.18.27_1","Yankwashi",166654.724708557,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.1_1","Birnin-G",394974.053923607,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.2_1","Chikun",575192.654876232,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.3_1","Giwa",432850.408472061,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.4_1","Igabi",781711.199524283,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.5_1","Ikara",312299.400001526,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.6_1","Jaba",223926.358943939,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.7_1","Jema'a",421927.200227737,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.8_1","Kachia",395536.553855985,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.9_1","Kaduna North",547440.444702148,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.10_1","Kaduna South",461289.279632568,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.11_1","Kagarko",349693.588152885,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.12_1","Kajuru",166891.22279644,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.13_1","Kaura",239881.651245117,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.14_1","Kauru",327893.751150131,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.15_1","Kubau",420708.624378204,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.16_1","Kudan",212996.287101746,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.17_1","Lere",524325.336351395,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.18_1","Makarfi",231692.716255188,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.19_1","Sabon-Ga",481241.141860962,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.20_1","Sanga",230025.611591339,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.21_1","Soba",437523.265636444,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.22_1","ZangonKa",498339.646081924,0,0,2020
+"NGA","Nigeria","NGA.19_1","Kaduna","NGA.19.23_1","Zaria",575682.293807983,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.1_1","Ajingi",258560.676864624,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.2_1","Albasu",322217.423217773,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.3_1","Bagwai",226068.393283844,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.4_1","Bebeji",324370.849472046,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.5_1","Bichi",415682.05714798,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.6_1","Bunkure",261601.899291992,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.7_1","Dala",690525.088867188,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.8_1","Dambatta",332381.567207336,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.9_1","DawakinK",349625.862609863,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.10_1","DawakinT",442314.950195312,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.11_1","Doguwa",248656.945474625,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.12_1","Fagge",426830.597167969,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.13_1","Gabasawa",323623.626289368,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.14_1","Garko",288768.3957901,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.15_1","Garum Mallam",185079.675621033,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.16_1","Gaya",302301.01399231,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.17_1","Gezawa",458743.003513336,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.18_1","Gwale",867249.438598633,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.19_1","Gwarzo",282565.559654236,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.20_1","Kabo",182670.199523926,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.21_1","Kano",0,NA,NA,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.22_1","Karaye",218225.231421471,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.23_1","Kibiya",192770.686515808,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.24_1","Kiru",380610.634403229,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.25_1","Kumbotso",723688.887145996,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.26_1","Kunchi",192586.349642754,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.27_1","Kura",250006.32144165,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.28_1","Madobi",199506.683563232,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.29_1","Makoda",341635.530700684,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.30_1","Minjibir",327945.333847046,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.31_1","Nassaraw",775696.034667969,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.32_1","Rano",238012.55064106,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.33_1","RiminGad",175294.623178482,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.34_1","Rogo",344358.295983315,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.35_1","Shanono",258376.736106873,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.36_1","Sumaila",382902.187839508,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.37_1","Takai",324886.173568726,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.38_1","Tarauni",378520.069335938,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.39_1","Tofa",164292.888198853,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.40_1","Tsanyawa",233540.512992859,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.41_1","Tundun Wada",347412.562208176,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.42_1","Ungogo",598219.448394775,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.43_1","Warawa",183121.666915894,0,0,2020
+"NGA","Nigeria","NGA.20_1","Kano","NGA.20.44_1","Wudil",313299.335510254,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.1_1","Bakori",213811.25025177,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.2_1","Batagarawa",339561.647468567,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.3_1","Batsari",305785.871480942,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.4_1","Baure",287549.795021057,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.5_1","Bindawa",224144.686027527,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.6_1","Charanchi",234624.911308289,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.7_1","Dandume",223778.022140503,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.8_1","Danja",174319.466621399,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.9_1","Danmusa",176406.031641006,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.10_1","Daura",274644.49723053,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.11_1","Dutsi",166306.70690918,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.12_1","Dutsin-M",247081.922533035,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.13_1","Faskari",291824.289745331,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.14_1","Funtua",330477.099334717,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.15_1","Ingawa",265952.498828888,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.16_1","Jibia",269808.574384689,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.17_1","Kafur",349529.308998108,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.18_1","Kaita",271102.048358917,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.19_1","Kankara",378603.997755051,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.20_1","Kankiya",211969.12141037,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.21_1","Katsina (K)",430017.920898438,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.22_1","Kurfi",165530.967781067,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.23_1","Kusada",152323.946769714,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.24_1","Mai'Adua",359261.500282288,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.25_1","Malumfashi",272595.897727966,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.26_1","Mani",274612.480949402,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.27_1","Mashi",247994.448936462,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.28_1","Matazu",164806.762229919,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.29_1","Musawa",234561.119041443,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.30_1","Rimi",209418.866218567,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.31_1","Sabuwa",208174.480337143,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.32_1","Safana",296503.700439453,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.33_1","Sandamu",211155.863548279,0,0,2020
+"NGA","Nigeria","NGA.21_1","Katsina","NGA.21.34_1","Zango",258120.906238556,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.1_1","Aleiro",124547.104137421,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.2_1","Arewa",292768.270125389,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.3_1","Argungu",318550.111721039,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.4_1","Augie",189112.444232941,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.5_1","Bagudo",359643.901302338,0.0169462756863956,0.0147879652298182,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.6_1","BirninKe",409612.833459854,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.7_1","Bunza",180042.623792648,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.8_1","Dandi",241825.132671356,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.9_1","Danko Wasagu",405171.831001282,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.10_1","Fakai",185929.313259125,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.11_1","Gwandu",224302.40378952,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.12_1","Jega",268629.490867615,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.13_1","Kalgo",138081.11397171,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.14_1","Koko/Bes",244259.379600525,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.15_1","Maiyama",265153.913942337,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.16_1","Ngaski",190899.083069563,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.17_1","Sakaba",139060.684650421,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.18_1","Shanga",192554.791717529,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.19_1","Suru",213833.49376297,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.20_1","Yauri",149334.366058588,0,0,2020
+"NGA","Nigeria","NGA.22_1","Kebbi","NGA.22.21_1","Zuru",239248.270149231,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.1_1","Adavi",382876.086907387,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.2_1","Ajaokuta",211198.767457962,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.3_1","Ankpa",402134.411352158,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.4_1","Bassa",207896.062850952,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.5_1","Dekina",390256.254728317,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.6_1","Ibaji",192415.397036552,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.7_1","Idah",118299.28237915,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.8_1","Igalamela-Odolu",219744.270497322,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.9_1","Ijumu",176256.696327209,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.10_1","Kabba/Bu",215233.910324097,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.11_1","Kotonkar",162054.958115578,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.12_1","Lokoja",308283.347225189,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.13_1","Mopa-Muro",80712.2343468666,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.14_1","Ofu",288110.072119713,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.15_1","Ogori/Magongo",43499.4104614258,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.16_1","Okehi",356244.126565933,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.17_1","Okene",365047.786750793,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.18_1","Olamabor",251332.906614304,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.19_1","Omala",163776.903589249,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.20_1","Yagba East",225279.627156734,0,0,2020
+"NGA","Nigeria","NGA.23_1","Kogi","NGA.23.21_1","Yagba West",209413.183328867,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.1_1","Asa",309097.536095619,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.2_1","Baruten",305864.147750378,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.3_1","Edu",303779.130149841,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.4_1","Ekiti",83778.3018779755,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.5_1","Ifelodun",315766.880862236,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.6_1","Ilorin East",399626.302601814,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.7_1","Ilorin South",163199.505519867,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.8_1","IlorinWe",448798.090652466,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.9_1","Irepodun",233975.764286041,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.10_1","Isin",80750.587020874,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.11_1","Kaiama",182446.661253691,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.12_1","Moro",174537.9427948,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.13_1","Offa",133974.842956543,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.14_1","Oke-Ero",119512.254928589,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.15_1","Oyun",156936.114143372,0,0,2020
+"NGA","Nigeria","NGA.24_1","Kwara","NGA.24.16_1","Pategi",164838.549302578,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.1_1","Agege",718988.794921875,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.2_1","Ajeromi/Ifelodun",894400.325927734,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.3_1","Alimosho",2124967.40673828,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.4_1","Amuwo Odofin",481263.253326416,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.5_1","Apapa",598366.540039062,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.6_1","Badagary",356069.714090347,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.7_1","Epe",293141.091220379,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.8_1","Eti-Osa",291426.328468323,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.9_1","Ibeju/Lekki",163777.321773529,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.10_1","Ifako/Ijaye",501853.838867188,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.11_1","Ikeja",611448.097900391,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.12_1","Ikorodu",799615.651279449,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.13_1","Kosofe",1371825.51605225,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.14_1","LagosIsland",488384.045692444,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.15_1","Mainland",0,NA,NA,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.16_1","Mushin",1083166.07617188,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.17_1","Ojo",936816.590644836,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.18_1","Oshodi/Isolo",553426.032226562,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.19_1","Shomolu",389781.245788574,0,0,2020
+"NGA","Nigeria","NGA.25_1","Lagos","NGA.25.20_1","Surulere",844545.919189453,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.1_1","Akwanga",158914.813304901,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.2_1","Awe",164781.020920753,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.3_1","Doma",198552.762916446,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.4_1","Karu",381019.522701263,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.5_1","Keana",116745.906492233,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.6_1","Keffi",138045.85600853,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.7_1","Kokona",164713.054328918,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.8_1","Lafia",471009.792442322,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.9_1","Nasarawa",291575.072995663,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.10_1","Nassarawa Egon",223405.412055969,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.11_1","Obi",241725.41119957,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.12_1","Toto",184268.421295643,0,0,2020
+"NGA","Nigeria","NGA.26_1","Nassarawa","NGA.26.13_1","Wamba",110788.81678009,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.1_1","Agaie",204046.78897953,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.2_1","Agwara",92494.1774089336,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.3_1","Bida",243197.212341309,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.4_1","Borgu",274748.31318599,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.5_1","Bosso",343645.019850254,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.6_1","Chanchaga",211141.530799866,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.7_1","Edati",236993.798624039,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.8_1","Gbako",208103.428050995,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.9_1","Gurara",174793.050712585,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.10_1","Katcha",192297.861145973,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.11_1","Kontogur",240451.734416962,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.12_1","Lapai",192017.474927902,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.13_1","Lavun",380028.970354557,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.14_1","Magama",284311.937299848,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.15_1","Mariga",307071.38577652,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.16_1","Mashegu",346562.064508259,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.17_1","Mokwa",392925.940028816,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.18_1","Muya",171760.838084936,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.19_1","Paikoro",238774.883566856,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.20_1","Rafi",298076.624149323,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.21_1","Rijau",296302.166897774,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.22_1","Shiroro",370139.620729685,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.23_1","Suleja",166708.867675781,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.24_1","Tafa",275203.099716187,0,0,2020
+"NGA","Nigeria","NGA.27_1","Niger","NGA.27.25_1","Wushishi",134010.60422802,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.1_1","Abeokuta South",331245.310211182,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.2_1","AbeokutaNorth",322037.444179535,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.3_1","AdoOdo/Ota",967764.768567085,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.4_1","EgbadoNorth",273420.99899292,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.5_1","EgbadoSouth",296163.703701019,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.6_1","Ewekoro",102096.064235687,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.7_1","Ifo",1012483.90725327,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.8_1","Ijebu North-East",86616.0304412842,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.9_1","IjebuEast",218726.786623478,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.10_1","IjebuNorth",433103.068511963,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.11_1","IjebuOde",222908.576660156,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.12_1","Ikenne",156665.481048584,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.13_1","Imeko-Afon",114874.668877602,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.14_1","Ipokia",180339.496299744,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.15_1","Obafemi-Owode",414197.215053558,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.16_1","Odeda",180945.463511944,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.17_1","Odogbolu",197155.425209045,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.18_1","OgunWaterside",126600.640851021,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.19_1","Remo-North",114150.677856445,0,0,2020
+"NGA","Nigeria","NGA.28_1","Ogun","NGA.28.20_1","Shagamu",400200.686912537,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.1_1","Akoko North-East",300001.771743774,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.2_1","Akoko South-East",154732.161075592,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.3_1","Akoko South-West",313453.780685425,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.4_1","AkokoNorthWest",306285.631126404,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.5_1","Akure North",239402.499727249,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.6_1","Akure South",510644.660839081,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.7_1","Ese-Odo",193007.051185608,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.8_1","Idanre",200266.236082077,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.9_1","Ifedore",263496.340988159,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.10_1","IlajeEseodo",404069.462043285,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.11_1","IleOluji/Okeigbo",257002.346038818,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.12_1","Irele",215213.959905624,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.13_1","Odigbo",364048.374095917,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.14_1","Okitipupa",350591.750782013,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.15_1","Ondo East",108299.048110962,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.16_1","Ondo West",458867.046544075,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.17_1","Ose",231686.98790741,0,0,2020
+"NGA","Nigeria","NGA.29_1","Ondo","NGA.29.18_1","Owo",324447.687604904,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.1_1","Atakumosa East",106932.937519073,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.2_1","Atakumosa West",129732.290203094,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.3_1","Ayedaade",242535.846382141,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.4_1","Ayedire",121557.067230225,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.5_1","Boluwaduro",94399.9532852173,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.6_1","Boripe",202140.984947205,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.7_1","Ede North",91964.2235031128,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.8_1","Ede South",120219.908493042,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.9_1","Egbedore",186615.445428848,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.10_1","Ejigbo",176772.693206787,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.11_1","Ife East",215138.784942627,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.12_1","Ife North",322780.354925156,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.13_1","Ife South",226503.83149147,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.14_1","IfeCentral",222819.986671448,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.15_1","Ifedayo",45400.490447998,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.16_1","Ifelodun",113817.272247314,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.17_1","Ila",99092.4837493896,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.18_1","Ilesha East",191256.699752808,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.19_1","Ilesha West",109004.996833801,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.20_1","Irepodun",134692.140365601,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.21_1","Irewole",233546.756126404,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.22_1","Isokan",122427.496019363,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.23_1","Iwo",280512.941215515,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.24_1","Obokun",182763.216884613,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.25_1","Odo0tin",200869.194259644,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.26_1","Ola-Oluwa",133594.242904663,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.27_1","Olorunda",159110.947272301,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.28_1","Oriade",271254.094371796,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.29_1","Orolu",198011.375354767,0,0,2020
+"NGA","Nigeria","NGA.30_1","Osun","NGA.30.30_1","Osogbo",272441.880310059,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.1_1","Afijio",240212.588420868,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.2_1","Akinyele",290862.435150146,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.3_1","Atiba",245578.420490265,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.4_1","Atisbo",180685.189028382,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.5_1","Egbeda",413006.739440918,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.6_1","IbadanNorth",271468.895019531,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.7_1","IbadanNorth-East",517289.52734375,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.8_1","IbadanNorth-West",366026.884277344,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.9_1","IbadanSouth-East",355394.462890625,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.10_1","IbadanSouth-West",305202.826965332,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.11_1","Ibarapa Central",157484.423606873,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.12_1","Ibarapa East",186296.419929504,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.13_1","Ibarapa North",162984.802455902,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.14_1","Ido",215378.231180191,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.15_1","Irepo",189562.43670845,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.16_1","Iseyin",401785.734413147,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.17_1","Itesiwaju",202204.043999434,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.18_1","Iwajowa",159600.417040825,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.19_1","Kajola",302038.270341873,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.20_1","Lagelu",440091.225074768,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.21_1","Ogbomosho North",367896.5418396,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.22_1","Ogbomosho South",100113.705169678,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.23_1","Ogo-Oluw",110774.550800323,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.24_1","Olorunsogo",123578.173147202,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.25_1","Oluyole",542543.179763794,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.26_1","Ona-Ara",271533.255962372,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.27_1","Orelope",158023.235484123,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.28_1","Ori-Ire",239384.609605789,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.29_1","Oyo East",112560.692764282,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.30_1","Oyo West",275934.097457886,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.31_1","Saki East",186059.850187302,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.32_1","Saki West",406152.499958038,0,0,2020
+"NGA","Nigeria","NGA.31_1","Oyo","NGA.31.33_1","Surulere",209961.638912201,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.1_1","Barkin Ladi",295403.743282318,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.2_1","Bassa",297114.117679596,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.3_1","Bokkos",260757.866534233,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.4_1","Jos East",133020.787035942,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.5_1","Jos North",618062.523963928,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.6_1","Jos South",450994.024887085,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.7_1","Kanam",257306.58092308,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.8_1","Kanke",191359.641771317,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.9_1","Langtang North",209087.260955811,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.10_1","Langtang South",151015.010379791,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.11_1","Mangu",457831.183872223,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.12_1","Mikang",139853.489067078,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.13_1","Pankshin",260736.05047226,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.14_1","Qua'anpa",295208.142408371,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.15_1","Riyom",199290.278381348,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.16_1","Shendam",321619.559132576,0,0,2020
+"NGA","Nigeria","NGA.32_1","Plateau","NGA.32.17_1","Wase",237170.694054604,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.1_1","Abua/Odu",441858.689964294,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.2_1","Ahoada East",266740.132759094,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.3_1","Ahoada West",359935.936096191,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.4_1","Akukutor",217909.901504517,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.5_1","Andoni/O",228401.783660889,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.6_1","Asari-To",211861.233016968,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.7_1","Bonny",215407.357177734,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.8_1","Degema",418854.971366882,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.9_1","Eleme",303313.315628052,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.10_1","Emuoha",320939.598388672,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.11_1","Etche",397971.446647644,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.12_1","Gokana",312771.713439941,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.13_1","Ikwerre",293149.706222534,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.14_1","Khana",452087.542556763,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.15_1","Obio/Akp",684891.218643188,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.16_1","Ogba/Egbe",428914.028985977,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.17_1","Ogu/Bolo",102794.27911377,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.18_1","Okrika",333620.105072021,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.19_1","Omumma",157387.493057251,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.20_1","Opobo/Nkoro",197402.735336304,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.21_1","Oyigbo",179618.810539246,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.22_1","Port Harcourt",499092.867279053,0,0,2020
+"NGA","Nigeria","NGA.33_1","Rivers","NGA.33.23_1","Tai",227809.001647949,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.1_1","Binji",155384.058263779,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.2_1","Bodinga",294207.515171051,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.3_1","Dange-Shuni",287047.947530746,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.4_1","Gada",359235.050563812,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.5_1","Goronyo",272063.426127613,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.6_1","Gudu",142691.723622322,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.7_1","Gwadabaw",341930.268211365,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.8_1","Illela",228219.402378082,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.9_1","Isa",229335.349544525,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.10_1","Kebbe",191615.201512337,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.11_1","Kware",202654.421094894,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.12_1","Rabah",238019.759670258,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.13_1","Sabon Birni",315599.213273287,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.14_1","Shagari",216164.582454681,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.15_1","Silame",148680.829427719,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.16_1","Sokoto North",325766.01574707,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.17_1","Sokoto South",241788.544784546,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.18_1","Tambawal",348980.181451797,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.19_1","Tangazar",176169.709984779,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.20_1","Tureta",106915.850011826,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.21_1","Wamakko",353323.419733047,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.22_1","Wurno",251073.603124619,0,0,2020
+"NGA","Nigeria","NGA.34_1","Sokoto","NGA.34.23_1","Yabo",161552.441856384,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.1_1","Ardo-Kola",159689.095541,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.2_1","Bali",311474.132781029,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.3_1","Donga",198258.706278801,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.4_1","Gashaka",131986.451867104,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.5_1","Gassol",364381.070792198,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.6_1","Ibi",133625.650823772,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.7_1","Jalingo",185613.61863327,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.8_1","Karim-La",287524.290703773,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.9_1","Kurmi",135123.724774361,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.10_1","Lau",132449.215427399,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.11_1","Sardauna",327572.011116028,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.12_1","Takum",179129.534173965,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.13_1","Ussa",150488.504227638,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.14_1","Wukari",353975.375260353,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.15_1","Yorro",138022.363750458,0,0,2020
+"NGA","Nigeria","NGA.35_1","Taraba","NGA.35.16_1","Zing",184660.398561478,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.1_1","Bade",203984.459067345,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.2_1","Borsari",199766.687859535,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.3_1","Damaturu",138871.957689762,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.4_1","Fika",214865.815092087,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.5_1","Fune",468335.667951584,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.6_1","Geidam",239767.896069527,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.7_1","Gujba",206567.453860283,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.8_1","Gulani",163469.100075722,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.9_1","Jakusko",378107.92698288,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.10_1","Karasuwa",168350.52771759,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.11_1","Machina",92984.2164525986,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.12_1","Nangere",157314.526391983,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.13_1","Nguru",238604.238212585,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.14_1","Potiskum",335905.241333008,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.15_1","Tarmuwa",124779.615616322,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.16_1","Yunusari",211269.149256706,0,0,2020
+"NGA","Nigeria","NGA.36_1","Yobe","NGA.36.17_1","Yusufari",170588.34381485,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.1_1","Anka",219269.749044418,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.2_1","Bakura",282793.444785118,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.3_1","Birnin-Magaji/Kiyaw",279670.971324921,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.4_1","Bukkuyum",327111.18372345,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.5_1","Bungudu",380346.273586273,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.6_1","Gummi",310960.389101982,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.7_1","Gusau",589503.261872292,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.8_1","Kaura-Na",420621.558959961,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.9_1","Maradun",301888.710084915,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.10_1","Maru",447757.545880318,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.11_1","Shinkafi",218546.424898148,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.12_1","Talata-Mafara",329605.551324844,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.13_1","Tsafe",414453.093940735,0,0,2020
+"NGA","Nigeria","NGA.37_1","Zamfara","NGA.37.14_1","Zurmi",434609.654098511,0,0,2020

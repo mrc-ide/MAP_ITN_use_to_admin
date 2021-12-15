@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 data/population/
+data/MAP_raster/
 output/ITN_coverage/
 new_contexts/

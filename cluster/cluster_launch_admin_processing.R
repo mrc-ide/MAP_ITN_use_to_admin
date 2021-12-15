@@ -29,11 +29,11 @@ africa_intermediate_region <- unique(UN_geo_region$intermediate.region[which(UN_
 SSA_africa <- sapply(africa_intermediate_region[-which(africa_intermediate_region == "")], function(x) paste(UN_geo_region[which(UN_geo_region$intermediate.region == x),]$alpha.3, collapse = ";"))
 Northern_africa <- paste(UN_geo_region[which(UN_geo_region$sub.region == "Northern Africa"), ]$alpha.3, collapse = ";")
 
-run_these <- expand.grid(ISO = paste(all_ISO[-which(all_ISO$GID_0 %in% c("NAM", "SWZ", "LSO", "ZAF", "BWA")), ]$GID_0, collapse = ";"),
-                         admin_level = paste0("adm", 0:2),
-                         year = 2000:2020,
-                         type = "ITN_use",
-                         data_type = c("lower", "mean", "upper"),
+run_these <- expand.grid(ISO = as.character(sapply(split(all_ISO$GID_0, ceiling(seq_along(all_ISO$GID_0)/2)), function(x) paste(x, collapse = ";"))),
+                         admin_level = paste0("adm", 1:2),
+                         year = 2020,
+                         type = "relative_abundance",
+                         data_type = "mean",#c("lower", "mean", "upper"),
                          stringsAsFactors = FALSE)
 
 dim(run_these)
@@ -42,24 +42,21 @@ dim(run_these)
 grp <- obj$enqueue_bulk(run_these,
                         MAP_data_to_admin, do_call = TRUE, progress = TRUE)
 
-
 #Now combine
-all_datasets <- sapply(c("adm0", "adm1", "adm2"), function(x){
-  these <- paste0("U:/Arran/MAP_ITN_use_to_admin/output/ITN_coverage/", x, "/AGOBDIBENBFACAFCIVCMRCODCOGCPVDJIERIETHGABGHAGINGMBGNBGNQKENLBRMDGMLIMOZMRTMUSMWINERNGARWASDNSENSLESOMSSDSTPSYCTCDTGOTZAUGAZMBZWE")
-  all_ran <- list.files(these, full.names = T, ".csv")
-  rbindlist(sapply(all_ran, function(y){
-    this <- read.csv(y)
-    this$type <- gsub(".csv", "", last(strsplit(y, "_")[[1]]))
-    this$year <- strsplit(y, "_")[[1]][7]
-    this
-  }, simplify = FALSE))
-}, simplify = FALSE)
-
-write.csv(all_datasets[[1]], file = "output/ITN_coverage/SSA_ITN_use_adm0.csv", row.names = FALSE)
-write.csv(all_datasets[[2]], file = "output/ITN_coverage/SSA_ITN_use_adm1.csv", row.names = FALSE)
-write.csv(all_datasets[[3]], file = "output/ITN_coverage/SSA_ITN_use_adm2.csv", row.names = FALSE)
-
-
+all_datasets <- sapply(c("ITN_use", "IRS_use", "prevalence", "treatment", "relative_abundance"), function(a){
+  sapply(c("adm1", "adm2"), function(x){
+    these <- paste0("U:/Arran/MAP_ITN_use_to_admin/output/", a, "/", x, "/")
+    all_ran <- list.files(these, full.names = T, ".csv", recursive = T)
+    df <- rbindlist(sapply(all_ran, function(y){
+      this <- read.csv(y)
+      this$type <- gsub(".csv", "", last(strsplit(y, "_")[[1]]))
+      this$year <- (as.numeric(strsplit(y, "_")[[1]]))[which(!is.na(as.numeric(strsplit(y, "_")[[1]])))]
+      this
+    }, simplify = FALSE), use.names = TRUE)
+    colnames(df) <- gsub("ITN_", "", colnames(df))
+    write.csv(df, file = paste0("output/", a, "/SSA_", a, "_", x, ".csv"), row.names = FALSE)
+  }, simplify = FALSE)
+})
 
 
 

@@ -1,0 +1,122 @@
+"GID_0","NAME_0","GID_1","NAME_1","GID_2","NAME_2","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"BEN","Benin","BEN.1_1","Alibori","BEN.1.1_1","Banikoara",335181.452194214,0.0120371972780092,0.00591763495549821,2020
+"BEN","Benin","BEN.1_1","Alibori","BEN.1.2_1","Gogounou",150144.471157074,0.497862370605143,0.487182511823263,2020
+"BEN","Benin","BEN.1_1","Alibori","BEN.1.3_1","Kandi",264333.646096706,0.489217643787761,0.509707754183198,2020
+"BEN","Benin","BEN.1_1","Alibori","BEN.1.4_1","Karimama",95577.2871861458,0.00308358957690577,0.00363528409585146,2020
+"BEN","Benin","BEN.1_1","Alibori","BEN.1.5_1","Malanville",225610.790929794,0,0,2020
+"BEN","Benin","BEN.1_1","Alibori","BEN.1.6_1","Segbana",127135.820308685,0.494596036809001,0.479306873162677,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.1_1","Boukoumbé",99309.284910202,0,0,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.2_1","Cobly",81544.0912399292,0,0,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.3_1","Kérou",135431.896691322,0.533767002432243,0.53649988012514,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.4_1","Kouandé",144000.484100342,0.0791002591199513,0.0502751497854115,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.5_1","Matéri",136493.136095047,0,0,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.6_1","Natitingou",125007.95331192,0,0,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.7_1","Péhunco",97281.3728103638,0.463352481625518,0.485331973170451,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.8_1","Tanguiéta",97732.1691322327,0.012562254597159,0.0109727337468492,2020
+"BEN","Benin","BEN.2_1","Atakora","BEN.2.9_1","Toucountouna",118598.245368004,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.1_1","Abomey-Calavi",956358.843864441,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.2_1","Allada",136840.009143829,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.3_1","Kpomassè",78646.6361312866,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.4_1","Ouidah",240783.92552948,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.5_1","Sô-Ava",341042.781344414,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.6_1","Toffo",69693.0579147339,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.7_1","Tori-Bossito",73430.5291252136,0,0,2020
+"BEN","Benin","BEN.3_1","Atlantique","BEN.3.8_1","Zè",162183.036125183,0,0,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.1_1","Bembéréké",162669.365509033,0.00222236370738549,0.00154551609818087,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.2_1","Kalalé",227921.353033066,0.00224169245306051,0.000940598931940751,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.3_1","N'Dali",154746.454309464,0,0,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.4_1","Nikki",197056.990402222,0,0,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.5_1","Parakou",347925.22347641,0,0,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.6_1","Pèrèrè",115569.365785599,0,0,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.7_1","Sinendé",113989.866943359,0.0124964677181441,0.00887037113720063,2020
+"BEN","Benin","BEN.4_1","Borgou","BEN.4.8_1","Tchaourou",363946.833580971,0,0,2020
+"BEN","Benin","BEN.5_1","Collines","BEN.5.1_1","Bantè",121633.44699192,0,0,2020
+"BEN","Benin","BEN.5_1","Collines","BEN.5.2_1","Dassa-Zoumè",126614.996759415,0,0,2020
+"BEN","Benin","BEN.5_1","Collines","BEN.5.3_1","Glazoué",149767.310344696,0,0,2020
+"BEN","Benin","BEN.5_1","Collines","BEN.5.4_1","Ouèssè",184364.889472008,0,0,2020
+"BEN","Benin","BEN.5_1","Collines","BEN.5.5_1","Savalou",175013.22564888,0,0,2020
+"BEN","Benin","BEN.5_1","Collines","BEN.5.6_1","Savè",102798.653201103,0,0,2020
+"BEN","Benin","BEN.6_1","Donga","BEN.6.1_1","Bassila",188147.666286469,0.00705757896183979,0.00909415995514071,2020
+"BEN","Benin","BEN.6_1","Donga","BEN.6.2_1","Copargo",82548.6640701294,0.345257942493145,0.335249876526006,2020
+"BEN","Benin","BEN.6_1","Donga","BEN.6.3_1","Djougou",342442.850568771,0.427589960359222,0.447249862491975,2020
+"BEN","Benin","BEN.6_1","Donga","BEN.6.4_1","Ouaké",95949.2874069214,0.366930033479418,0.386844340280364,2020
+"BEN","Benin","BEN.7_1","Kouffo","BEN.7.1_1","Aplahoué",208839.997114182,0,0,2020
+"BEN","Benin","BEN.7_1","Kouffo","BEN.7.2_1","Djakotomey",156629.085525513,0,0,2020
+"BEN","Benin","BEN.7_1","Kouffo","BEN.7.3_1","Dogbo",145992.616966248,0,0,2020
+"BEN","Benin","BEN.7_1","Kouffo","BEN.7.4_1","Klouékanmè",178106.265838623,0,0,2020
+"BEN","Benin","BEN.7_1","Kouffo","BEN.7.5_1","Lalo",140954.160366058,0,0,2020
+"BEN","Benin","BEN.7_1","Kouffo","BEN.7.6_1","Toviklin",87696.5154724121,0,0,2020
+"BEN","Benin","BEN.8_1","Littoral","BEN.8.1_1","Cotonou",417938.481445312,0,0,2020
+"BEN","Benin","BEN.9_1","Mono","BEN.9.1_1","Athiémé",186927.494066238,0,0,2020
+"BEN","Benin","BEN.9_1","Mono","BEN.9.2_1","Bopa",116460.359817505,0,0,2020
+"BEN","Benin","BEN.9_1","Mono","BEN.9.3_1","Comè",107241.416345596,0,0,2020
+"BEN","Benin","BEN.9_1","Mono","BEN.9.4_1","Grand-Popo",43388.7859344482,0,0,2020
+"BEN","Benin","BEN.9_1","Mono","BEN.9.5_1","Houéyogbé",126901.865261078,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.1_1","Adjarra",116863.133487701,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.2_1","Adjohoun",87760.6806488037,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.3_1","Aguégués",96997.2867393494,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.4_1","Akpro-Missérété",155983.032012939,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.5_1","Avrankou",230322.083465576,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.6_1","Bonou",63541.1780548096,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.7_1","Dangbo",112095.755126953,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.8_1","Porto-Novo",266115.401916504,0,0,2020
+"BEN","Benin","BEN.10_1","Ouémé","BEN.10.9_1","Sèmè-Kpodji",161276.85370636,0,0,2020
+"BEN","Benin","BEN.11_1","Plateau","BEN.11.1_1","Adja-Ouèrè",135788.092979431,0,0,2020
+"BEN","Benin","BEN.11_1","Plateau","BEN.11.2_1","Ifangni",135675.653717041,0,0,2020
+"BEN","Benin","BEN.11_1","Plateau","BEN.11.3_1","Kétou",203965.091001034,0,0,2020
+"BEN","Benin","BEN.11_1","Plateau","BEN.11.4_1","Pobè",146287.126251221,0,0,2020
+"BEN","Benin","BEN.11_1","Plateau","BEN.11.5_1","Sakété",171792.917114258,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.1_1","Abomey",109537.758487701,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.2_1","Agbangnizoun",77761.2067756653,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.3_1","Bohicon",203849.064819336,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.4_1","Covè",62717.4205341339,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.5_1","Djidja",178067.885660172,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.6_1","Ouinhi",75963.6912841797,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.7_1","Za-Kpota",162528.513053894,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.8_1","Zagnanado",75195.5721073151,0,0,2020
+"BEN","Benin","BEN.12_1","Zou","BEN.12.9_1","Zogbodomey",125559.176727295,0,0,2020
+"BFA","Burkina Faso","BFA.1_1","Boucle du Mouhoun","BFA.1.1_1","Balé",297916.979560852,0,0,2020
+"BFA","Burkina Faso","BFA.1_1","Boucle du Mouhoun","BFA.1.2_1","Banwa",367523.157600224,0,0,2020
+"BFA","Burkina Faso","BFA.1_1","Boucle du Mouhoun","BFA.1.3_1","Kossi",362349.308060646,0,0,2020
+"BFA","Burkina Faso","BFA.1_1","Boucle du Mouhoun","BFA.1.4_1","Mouhoun",402655.414170504,0,0,2020
+"BFA","Burkina Faso","BFA.1_1","Boucle du Mouhoun","BFA.1.5_1","Nayala",212840.648371696,0,0,2020
+"BFA","Burkina Faso","BFA.1_1","Boucle du Mouhoun","BFA.1.6_1","Sourou",274307.715130806,0,0,2020
+"BFA","Burkina Faso","BFA.2_1","Cascades","BFA.2.1_1","Comoé",946735.016672611,0,0,2020
+"BFA","Burkina Faso","BFA.2_1","Cascades","BFA.2.2_1","Léraba",188461.966300249,0,0,2020
+"BFA","Burkina Faso","BFA.7_1","Centre","BFA.7.1_1","Kadiogo",4193918.02395058,0,0,2020
+"BFA","Burkina Faso","BFA.3_1","Centre-Est","BFA.3.1_1","Boulgou",810340.273917317,0,0,2020
+"BFA","Burkina Faso","BFA.3_1","Centre-Est","BFA.3.2_1","Koulpélogo",400049.836653352,0,0,2020
+"BFA","Burkina Faso","BFA.3_1","Centre-Est","BFA.3.3_1","Kouritenga",484698.424020767,0,0,2020
+"BFA","Burkina Faso","BFA.4_1","Centre-Nord","BFA.4.1_1","Bam",398108.438532352,0,0,2020
+"BFA","Burkina Faso","BFA.4_1","Centre-Nord","BFA.4.2_1","Namentenga",477243.053127766,0,0,2020
+"BFA","Burkina Faso","BFA.4_1","Centre-Nord","BFA.4.3_1","Sanmatenga",865778.758579254,0,0,2020
+"BFA","Burkina Faso","BFA.5_1","Centre-Ouest","BFA.5.1_1","Boulkiemdé",658820.095863342,0,0,2020
+"BFA","Burkina Faso","BFA.5_1","Centre-Ouest","BFA.5.2_1","Sanguié",403307.849620819,0,0,2020
+"BFA","Burkina Faso","BFA.5_1","Centre-Ouest","BFA.5.3_1","Sissili",332205.007762909,0.00365086031698548,0.00317310778809326,2020
+"BFA","Burkina Faso","BFA.5_1","Centre-Ouest","BFA.5.4_1","Ziro",314917.918379784,0,0,2020
+"BFA","Burkina Faso","BFA.6_1","Centre-Sud","BFA.6.1_1","Bazèga",292202.519118309,0,0,2020
+"BFA","Burkina Faso","BFA.6_1","Centre-Sud","BFA.6.2_1","Nahouri",252923.615199089,0.000418513889800119,0.000331426697817874,2020
+"BFA","Burkina Faso","BFA.6_1","Centre-Sud","BFA.6.3_1","Zoundwéogo",339691.087179005,0,0,2020
+"BFA","Burkina Faso","BFA.8_1","Est","BFA.8.1_1","Gnagna",609020.011127472,0,0,2020
+"BFA","Burkina Faso","BFA.8_1","Est","BFA.8.2_1","Gourma",504428.447272301,0,0,2020
+"BFA","Burkina Faso","BFA.8_1","Est","BFA.8.3_1","Komandjoari",149204.381752014,0,0,2020
+"BFA","Burkina Faso","BFA.8_1","Est","BFA.8.4_1","Kompienga",192685.480317742,0,0,2020
+"BFA","Burkina Faso","BFA.8_1","Est","BFA.8.5_1","Tapoa",574563.179922581,0,0,2020
+"BFA","Burkina Faso","BFA.9_1","Haut-Bassins","BFA.9.1_1","Houet",1618062.38442922,0,0,2020
+"BFA","Burkina Faso","BFA.9_1","Haut-Bassins","BFA.9.2_1","Kénédougou",480858.000479221,0,0,2020
+"BFA","Burkina Faso","BFA.9_1","Haut-Bassins","BFA.9.3_1","Tuy",383499.07918644,0,0,2020
+"BFA","Burkina Faso","BFA.10_1","Nord","BFA.10.1_1","Loroum",212198.29533577,0,0,2020
+"BFA","Burkina Faso","BFA.10_1","Nord","BFA.10.2_1","Passoré",407437.306085825,0,0,2020
+"BFA","Burkina Faso","BFA.10_1","Nord","BFA.10.3_1","Yatenga",726117.783170223,0,0,2020
+"BFA","Burkina Faso","BFA.10_1","Nord","BFA.10.4_1","Zondoma",244128.845010757,0,0,2020
+"BFA","Burkina Faso","BFA.11_1","Plateau-Central","BFA.11.1_1","Ganzourgou",439663.969905853,0,0,2020
+"BFA","Burkina Faso","BFA.11_1","Plateau-Central","BFA.11.2_1","Kourwéogo",180531.853208542,0,0,2020
+"BFA","Burkina Faso","BFA.11_1","Plateau-Central","BFA.11.3_1","Oubritenga",329148.779231548,0,0,2020
+"BFA","Burkina Faso","BFA.12_1","Sahel","BFA.12.1_1","Oudalan",325450.03745842,0,0,2020
+"BFA","Burkina Faso","BFA.12_1","Sahel","BFA.12.2_1","Séno",389778.461472511,0,0,2020
+"BFA","Burkina Faso","BFA.12_1","Sahel","BFA.12.3_1","Soum",519552.484615803,0,0,2020
+"BFA","Burkina Faso","BFA.12_1","Sahel","BFA.12.4_1","Yagha",249704.06378603,0,0,2020
+"BFA","Burkina Faso","BFA.13_1","Sud-Ouest","BFA.13.1_1","Bougouriba",218939.802032471,0,0,2020
+"BFA","Burkina Faso","BFA.13_1","Sud-Ouest","BFA.13.2_1","Ioba",200944.276006699,0,0,2020
+"BFA","Burkina Faso","BFA.13_1","Sud-Ouest","BFA.13.3_1","Noumbiel",106703.524087906,0,0,2020
+"BFA","Burkina Faso","BFA.13_1","Sud-Ouest","BFA.13.4_1","Poni",389943.893115997,0.000985638386961343,0.000729861030619311,2020

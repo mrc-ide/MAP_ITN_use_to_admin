@@ -1,0 +1,205 @@
+"GID_0","NAME_0","GID_1","NAME_1","GID_2","NAME_2","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"TGO","Togo","TGO.1_1","Centre","TGO.1.1_1","Sotouboua",392874.444508553,0,0,2020
+"TGO","Togo","TGO.1_1","Centre","TGO.1.2_1","Tchamba (Nyala)",229059.342293739,0,0,2020
+"TGO","Togo","TGO.1_1","Centre","TGO.1.3_1","Tchaudjo",229762.070833206,0,0,2020
+"TGO","Togo","TGO.2_1","Kara","TGO.2.1_1","Assoli",53547.631485939,0,0,2020
+"TGO","Togo","TGO.2_1","Kara","TGO.2.2_1","Bassar",360694.981295109,0,0,2020
+"TGO","Togo","TGO.2_1","Kara","TGO.2.3_1","Bimah",59071.3959007263,0,0,2020
+"TGO","Togo","TGO.2_1","Kara","TGO.2.4_1","Doufelgou",87528.5845756531,0,0,2020
+"TGO","Togo","TGO.2_1","Kara","TGO.2.5_1","Kéran",125865.413265228,0,0,2020
+"TGO","Togo","TGO.2_1","Kara","TGO.2.6_1","Kozah",244881.142515182,0,0,2020
+"TGO","Togo","TGO.3_1","Maritime","TGO.3.1_1","Golfe (incl Lomé)",2327083.22854614,0,0,2020
+"TGO","Togo","TGO.3_1","Maritime","TGO.3.2_1","Lacs",256278.478004456,0,0,2020
+"TGO","Togo","TGO.3_1","Maritime","TGO.3.3_1","Vo",238751.717363358,0,0,2020
+"TGO","Togo","TGO.3_1","Maritime","TGO.3.4_1","Yoto",193079.293722153,0,0,2020
+"TGO","Togo","TGO.3_1","Maritime","TGO.3.5_1","Zio",777452.354412079,0,0,2020
+"TGO","Togo","TGO.4_1","Plateaux","TGO.4.1_1","Amou",145628.426435471,0,0,2020
+"TGO","Togo","TGO.4_1","Plateaux","TGO.4.2_1","Haho",413944.903640747,0,0,2020
+"TGO","Togo","TGO.4_1","Plateaux","TGO.4.3_1","Kloto",396212.712648392,0,0,2020
+"TGO","Togo","TGO.4_1","Plateaux","TGO.4.4_1","Ogou",655577.09337616,0,0,2020
+"TGO","Togo","TGO.4_1","Plateaux","TGO.4.5_1","Wawa",172710.091313362,0,0,2020
+"TGO","Togo","TGO.5_1","Savanes","TGO.5.1_1","Oti",287021.937173843,0,0,2020
+"TGO","Togo","TGO.5_1","Savanes","TGO.5.2_1","Tône",889562.995723724,0.00121026050369695,0.000573473178850145,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.2_1","Arusha",335483.968604088,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.1_1","Arusha Urban",609619.783287048,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.3_1","Karatu",271810.851901233,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.4_1","Lake Eyasi",1773.6699199453,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.5_1","Lake Manyara",124.853675931692,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.6_1","Longido",146081.395273402,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.7_1","Meru",276428.912071228,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.8_1","Monduli",225456.19281292,0,0,2020
+"TZA","Tanzania","TZA.1_1","Arusha","TZA.1.9_1","Ngorongoro",226283.403218232,0,0,2020
+"TZA","Tanzania","TZA.2_1","Dar es Salaam","TZA.2.1_1","Ilala",2014291.7461319,0,0,2020
+"TZA","Tanzania","TZA.2_1","Dar es Salaam","TZA.2.2_1","Kinondoni",2346064.07401657,0,0,2020
+"TZA","Tanzania","TZA.2_1","Dar es Salaam","TZA.2.3_1","Temeke",2138420.5931263,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.1_1","Bahi",262295.748246074,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.2_1","Chamwino",380101.290144712,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.3_1","Chemba",283212.634534359,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.4_1","Dodoma Urban",490830.421536446,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.5_1","Kondoa",318049.106960773,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.6_1","Kongwa",375641.635511398,0,0,2020
+"TZA","Tanzania","TZA.3_1","Dodoma","TZA.3.7_1","Mpwapwa",361641.28710106,0,0,2020
+"TZA","Tanzania","TZA.4_1","Geita","TZA.4.1_1","Bukombe",323108.105880827,0,0,2020
+"TZA","Tanzania","TZA.4_1","Geita","TZA.4.2_1","Chato",534355.563019514,0,0,2020
+"TZA","Tanzania","TZA.4_1","Geita","TZA.4.3_1","Geita",1095970.10506654,0,0,2020
+"TZA","Tanzania","TZA.4_1","Geita","TZA.4.4_1","Mbogwe",277579.989616394,0,0,2020
+"TZA","Tanzania","TZA.4_1","Geita","TZA.4.5_1","Nyang'wale",216756.138807297,0,0,2020
+"TZA","Tanzania","TZA.5_1","Iringa","TZA.5.1_1","Iringa Rural",267336.711079448,0,0,2020
+"TZA","Tanzania","TZA.5_1","Iringa","TZA.5.2_1","Iringa Urban",197411.001708984,0,0,2020
+"TZA","Tanzania","TZA.5_1","Iringa","TZA.5.3_1","Kilolo",232305.404803753,0,0,2020
+"TZA","Tanzania","TZA.5_1","Iringa","TZA.5.4_1","Mafinga Township Authority",59064.6262626648,0,0,2020
+"TZA","Tanzania","TZA.5_1","Iringa","TZA.5.5_1","Mufindi",287307.721980155,0,0,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.1_1","Biharamulo",371405.548267901,0.0063669631591422,0.00298397545636714,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.2_1","Bukoba Rural",312753.057462037,0.426463759342829,0.43650532668792,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.3_1","Bukoba Urban",155726.077728271,0.196114248037338,0.184157489785542,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.4_1","Karagwe",397079.465292305,0.0101810898316109,0.00302856346868192,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.5_1","Kyerwa",354075.904049039,0,0,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.6_1","Lake Victoria",62032.2315765023,0.00613687332735022,0.0941665756074196,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.7_1","Missenyi",233496.81136632,0.42911691974093,0.437982468132519,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.8_1","Muleba",582497.755298853,0.00576533682375069,0.00816517536704775,2020
+"TZA","Tanzania","TZA.6_1","Kagera","TZA.6.9_1","Ngara",361495.973593712,0.277753340848884,0.248296240827951,2020
+"TZA","Tanzania","TZA.7_1","Katavi","TZA.7.1_1","Lake Rukwa",86.9068092517555,0,0,2020
+"TZA","Tanzania","TZA.7_1","Katavi","TZA.7.2_1","Lake Tanganyika",1434.22627997398,0,0,2020
+"TZA","Tanzania","TZA.7_1","Katavi","TZA.7.3_1","Mlele",363784.771628357,0,0,2020
+"TZA","Tanzania","TZA.7_1","Katavi","TZA.7.5_1","Mpanda",228786.483280957,0,0,2020
+"TZA","Tanzania","TZA.7_1","Katavi","TZA.7.4_1","Mpanda Urban",132133.383968353,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.1_1","Buhigwe",305784.438690186,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.2_1","Kakonko",193730.158069611,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.4_1","Kasulu",510150.309149981,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.3_1","Kasulu Township Authority",248378.663488388,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.5_1","Kibondo",323790.13896361,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.6_1","Kigoma Rural",289043.512438893,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.7_1","Kigoma Urban",118865.9349823,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.8_1","Lake Tanganyika",121812.917121768,0,0,2020
+"TZA","Tanzania","TZA.8_1","Kigoma","TZA.8.9_1","Uvinza",450565.658875078,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.1_1","Hai",236368.172981262,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.2_1","Moshi Rural",532296.346889317,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.3_1","Moshi Urban",220050.704315186,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.4_1","Mwanga",144729.68157047,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.5_1","Rombo",252901.674759388,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.6_1","Same",325148.88586849,0,0,2020
+"TZA","Tanzania","TZA.9_1","Kilimanjaro","TZA.9.7_1","Siha",157491.375756741,0,0,2020
+"TZA","Tanzania","TZA.10_1","Lindi","TZA.10.1_1","Kilwa",197504.331570074,0,0,2020
+"TZA","Tanzania","TZA.10_1","Lindi","TZA.10.2_1","Lindi Rural",199037.774938226,0,0,2020
+"TZA","Tanzania","TZA.10_1","Lindi","TZA.10.3_1","Lindi Urban",79652.9438533783,0,0,2020
+"TZA","Tanzania","TZA.10_1","Lindi","TZA.10.4_1","Liwale",107828.815126861,0,0,2020
+"TZA","Tanzania","TZA.10_1","Lindi","TZA.10.5_1","Nachingwea",196680.76701653,0,0,2020
+"TZA","Tanzania","TZA.10_1","Lindi","TZA.10.6_1","Ruangwa",134536.106739163,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.2_1","Babati",394727.333732665,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.1_1","Babati Urban",114540.94137311,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.3_1","Hanang",355245.921492219,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.4_1","Kiteto",356750.639800489,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.5_1","Lake Manyara",1554.18848130107,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.6_1","Mbulu",407327.83148101,0,0,2020
+"TZA","Tanzania","TZA.11_1","Manyara","TZA.11.7_1","Simanjiro",228480.635485679,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.1_1","Bunda",371178.656335235,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.2_1","Butiama",296256.781976819,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.3_1","Lake Victoria",139465.012811124,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.4_1","Musoma Rural",170247.023510933,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.5_1","Musoma Urban",120325.661231995,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.6_1","Rorya",292120.708762288,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.7_1","Serengeti",329263.257911444,0,0,2020
+"TZA","Tanzania","TZA.12_1","Mara","TZA.12.8_1","Tarime",370708.174257278,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.1_1","Chunya",379532.268890802,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.2_1","Ileje",136864.327893257,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.3_1","Kyela",264245.90968132,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.4_1","Lake Rukwa",1177.78792196512,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.5_1","Mbarali",364124.748400226,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.6_1","Mbeya Rural",331756.085086823,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.7_1","Mbeya Urban",532762.004570007,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.8_1","Mbozi",595486.810995102,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.9_1","Momba",271564.70576787,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.10_1","Rungwe",364020.862166882,0,0,2020
+"TZA","Tanzania","TZA.13_1","Mbeya","TZA.13.11_1","Tunduma",95743.9927520752,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.1_1","Gairo",233409.747558594,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.2_1","Kilombero",478108.349351682,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.3_1","Kilosa",551221.219988883,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.4_1","Morogoro Rural",328383.634423569,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.5_1","Morogoro Urban",371454.203129768,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.6_1","Mvomero",379913.235210896,0,0,2020
+"TZA","Tanzania","TZA.14_1","Morogoro","TZA.14.7_1","Ulanga",344946.436796058,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.2_1","Masasi",270793.863162756,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.1_1","Masasi Township Authority",114470.941392899,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.3_1","Mtwara Rural",240077.159457326,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.4_1","Mtwara Urban",96306.7046813965,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.5_1","Nanyumbu",165327.208636165,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.6_1","Newala",228446.634958029,0,0,2020
+"TZA","Tanzania","TZA.15_1","Mtwara","TZA.15.7_1","Tandahimba",245511.788591385,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.1_1","Ilemela",167804.171012878,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.2_1","Kwimba",393531.355367661,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.3_1","Lake Victoria",329133.209431589,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.4_1","Magu",300243.381611049,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.5_1","Misungwi",439618.55619812,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.6_1","Nyamagana",760151.166432381,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.7_1","Sengerema",748289.7501055,0,0,2020
+"TZA","Tanzania","TZA.16_1","Mwanza","TZA.16.8_1","Ukerewe",316438.27012825,0,0,2020
+"TZA","Tanzania","TZA.17_1","Njombe","TZA.17.1_1","Ludewa",135872.188464373,0,0,2020
+"TZA","Tanzania","TZA.17_1","Njombe","TZA.17.2_1","Makambako Township Authority",101709.562533617,0,0,2020
+"TZA","Tanzania","TZA.17_1","Njombe","TZA.17.3_1","Makete",90789.29160285,0,0,2020
+"TZA","Tanzania","TZA.17_1","Njombe","TZA.17.5_1","Njombe",93692.0309482813,0,0,2020
+"TZA","Tanzania","TZA.17_1","Njombe","TZA.17.4_1","Njombe Urban",146699.978054762,0,0,2020
+"TZA","Tanzania","TZA.17_1","Njombe","TZA.17.6_1","Wanging'ombe",178967.160226822,0,0,2020
+"TZA","Tanzania","TZA.18_1","Pemba North","TZA.18.1_1","Micheweni",112033.604548454,0,0,2020
+"TZA","Tanzania","TZA.18_1","Pemba North","TZA.18.2_1","Wete",93365.616317749,0,0,2020
+"TZA","Tanzania","TZA.19_1","Pemba South","TZA.19.1_1","Chake",106690.149780273,0.0924861967563629,0.08985587730073,2020
+"TZA","Tanzania","TZA.19_1","Pemba South","TZA.19.2_1","Mkoani",93970.053396225,0.0936458885669708,0.0737017979904718,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.1_1","Bagamoyo",385633.648003936,0,0,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.3_1","Kibaha",92874.9645292759,0,0,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.2_1","Kibaha Urban",181493.353319168,0,0,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.4_1","Kisarawe",128427.532767594,0,0,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.5_1","Mafia",42538.3723487854,0,0,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.6_1","Mkuranga",329125.753538847,0,0,2020
+"TZA","Tanzania","TZA.20_1","Pwani","TZA.20.7_1","Rufiji",231122.648529096,0,0,2020
+"TZA","Tanzania","TZA.21_1","Rukwa","TZA.21.1_1","Kalambo",260942.349279642,0,0,2020
+"TZA","Tanzania","TZA.21_1","Rukwa","TZA.21.2_1","Lake Rukwa",555.358560562134,0,0,2020
+"TZA","Tanzania","TZA.21_1","Rukwa","TZA.21.3_1","Lake Tanganyika",11685.3860356212,0,0,2020
+"TZA","Tanzania","TZA.21_1","Rukwa","TZA.21.4_1","Nkasi",359881.499586463,0,0,2020
+"TZA","Tanzania","TZA.21_1","Rukwa","TZA.21.5_1","Sumbawanga Rural",392660.797302753,0,0,2020
+"TZA","Tanzania","TZA.21_1","Rukwa","TZA.21.6_1","Sumbawanga Urban",274820.223232269,0,0,2020
+"TZA","Tanzania","TZA.22_1","Ruvuma","TZA.22.1_1","Mbinga",417415.468883276,0,0,2020
+"TZA","Tanzania","TZA.22_1","Ruvuma","TZA.22.2_1","Namtumbo",224356.860422149,0,0,2020
+"TZA","Tanzania","TZA.22_1","Ruvuma","TZA.22.3_1","Nyasa",172120.948541284,0,0,2020
+"TZA","Tanzania","TZA.22_1","Ruvuma","TZA.22.4_1","Songea Rural",191730.906733513,0,0,2020
+"TZA","Tanzania","TZA.22_1","Ruvuma","TZA.22.5_1","Songea Urban",285930.117891312,0,0,2020
+"TZA","Tanzania","TZA.22_1","Ruvuma","TZA.22.6_1","Tunduru",343024.462443382,0,0,2020
+"TZA","Tanzania","TZA.23_1","Shinyanga","TZA.23.2_1","Kahama",634236.54762876,0,0,2020
+"TZA","Tanzania","TZA.23_1","Shinyanga","TZA.23.1_1","Kahama Township Authority",293483.547653198,0,0,2020
+"TZA","Tanzania","TZA.23_1","Shinyanga","TZA.23.3_1","Kishapu",310348.288684845,0,0,2020
+"TZA","Tanzania","TZA.23_1","Shinyanga","TZA.23.4_1","Shinyanga Rural",387285.648105621,0,0,2020
+"TZA","Tanzania","TZA.23_1","Shinyanga","TZA.23.5_1","Shinyanga Urban",188156.734195709,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.1_1","Bariadi",587063.735498726,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.2_1","Busega",273702.448005199,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.3_1","Itilima",449233.928002119,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.4_1","Lake Eyasi",141.73487855494,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.5_1","Lake Victoria",19630.7696552277,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.6_1","Maswa",377356.436441422,0,0,2020
+"TZA","Tanzania","TZA.24_1","Simiyu","TZA.24.7_1","Meatu",349407.414725363,0,0,2020
+"TZA","Tanzania","TZA.25_1","Singida","TZA.25.1_1","Ikungi",322797.746291876,0,0,2020
+"TZA","Tanzania","TZA.25_1","Singida","TZA.25.2_1","Iramba",264096.021254599,0,0,2020
+"TZA","Tanzania","TZA.25_1","Singida","TZA.25.3_1","Manyoni",397137.94256869,0,0,2020
+"TZA","Tanzania","TZA.25_1","Singida","TZA.25.4_1","Mkalama",212689.158109188,0,0,2020
+"TZA","Tanzania","TZA.25_1","Singida","TZA.25.5_1","Singida Rural",269484.530210972,0,0,2020
+"TZA","Tanzania","TZA.25_1","Singida","TZA.25.6_1","Singida Urban",187955.837568521,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.1_1","Igunga",474493.277089477,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.2_1","Kaliua",567799.42979306,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.3_1","Nzega",597341.575442314,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.4_1","Sikonge",231525.379319385,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.5_1","Tabora Urban",266444.785042048,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.6_1","Urambo",280602.94896543,0,0,2020
+"TZA","Tanzania","TZA.26_1","Tabora","TZA.26.7_1","Uyui",513112.585765302,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.2_1","Handeni",362536.363190889,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.1_1","Handeni Township Authority",104091.822645426,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.3_1","Kilindi",344185.42370224,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.5_1","Korogwe",292700.344689727,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.4_1","Korogwe Township Authority",82689.2411346436,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.6_1","Lushoto",549226.614017844,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.7_1","Mkinga",125341.871868849,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.8_1","Muheza",222466.823068142,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.9_1","Pangani",54578.255446434,0,0,2020
+"TZA","Tanzania","TZA.27_1","Tanga","TZA.27.10_1","Tanga",284751.031413078,0,0,2020
+"TZA","Tanzania","TZA.28_1","Zanzibar North","TZA.28.1_1","Kaskazini 'A'",80146.7876167297,0,0,2020
+"TZA","Tanzania","TZA.28_1","Zanzibar North","TZA.28.2_1","Kaskazini 'B'",106096.307662964,0,0,2020
+"TZA","Tanzania","TZA.29_1","Zanzibar South and Central","TZA.29.1_1","Kati",92145.1973161697,0.184324089969907,0.120336023919042,2020
+"TZA","Tanzania","TZA.29_1","Zanzibar South and Central","TZA.29.2_1","Kusini",35612.6392726898,0.249726129695773,0.216060151077413,2020
+"TZA","Tanzania","TZA.30_1","Zanzibar West","TZA.30.1_1","Magharibi",446792.557834625,0,0,2020
+"TZA","Tanzania","TZA.30_1","Zanzibar West","TZA.30.2_1","Mjini",289326.420898438,NA,0,2020

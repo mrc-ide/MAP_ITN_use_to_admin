@@ -1,0 +1,92 @@
+"GID_0","NAME_0","GID_1","NAME_1","GID_2","NAME_2","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"CIV","Côte d'Ivoire","CIV.1_1","Abidjan","CIV.1.1_1","Abidjan",5436150.55575085,0,0,2020
+"CIV","Côte d'Ivoire","CIV.2_1","Bas-Sassandra","CIV.2.1_1","Gbôkle",466718.569862366,0,0,2020
+"CIV","Côte d'Ivoire","CIV.2_1","Bas-Sassandra","CIV.2.2_1","Nawa",1216109.66959262,0,0,2020
+"CIV","Côte d'Ivoire","CIV.2_1","Bas-Sassandra","CIV.2.3_1","San-Pédro",948582.710117817,0,0,2020
+"CIV","Côte d'Ivoire","CIV.3_1","Comoé","CIV.3.1_1","Indénié-Djuablin",626728.450928688,0,0,2020
+"CIV","Côte d'Ivoire","CIV.3_1","Comoé","CIV.3.2_1","Sud Comoé",705863.411463559,0,0,2020
+"CIV","Côte d'Ivoire","CIV.4_1","Denguélé","CIV.4.1_1","Folon",114071.22264576,0,0,2020
+"CIV","Côte d'Ivoire","CIV.4_1","Denguélé","CIV.4.2_1","Kabadougou",224993.457099915,0,0,2020
+"CIV","Côte d'Ivoire","CIV.5_1","Gôh-Djiboua","CIV.5.1_1","Gôh",1049922.17913246,0,0,2020
+"CIV","Côte d'Ivoire","CIV.5_1","Gôh-Djiboua","CIV.5.2_1","Lôh-Djiboua",843837.280818462,0,0,2020
+"CIV","Côte d'Ivoire","CIV.6_1","Lacs","CIV.6.1_1","Bélier",402588.611149818,0,0,2020
+"CIV","Côte d'Ivoire","CIV.6_1","Lacs","CIV.6.2_1","Iffou",366409.167001247,0,0,2020
+"CIV","Côte d'Ivoire","CIV.6_1","Lacs","CIV.6.3_1","Moronou",401380.925724983,0,0,2020
+"CIV","Côte d'Ivoire","CIV.6_1","Lacs","CIV.6.4_1","N'zi",299847.969092369,0,0,2020
+"CIV","Côte d'Ivoire","CIV.7_1","Lagunes","CIV.7.1_1","Agnéby-Tiassa",660647.445557594,0,0,2020
+"CIV","Côte d'Ivoire","CIV.7_1","Lagunes","CIV.7.2_1","Grands Ponts",375711.549530506,0,0,2020
+"CIV","Côte d'Ivoire","CIV.7_1","Lagunes","CIV.7.3_1","La Mé",560034.643409252,0,0,2020
+"CIV","Côte d'Ivoire","CIV.8_1","Montagnes","CIV.8.1_1","Cavally",536891.654654443,0,0,2020
+"CIV","Côte d'Ivoire","CIV.8_1","Montagnes","CIV.8.2_1","Guémon",1157540.21768749,0,0,2020
+"CIV","Côte d'Ivoire","CIV.8_1","Montagnes","CIV.8.3_1","Tonkpi",1147533.50118113,0,0,2020
+"CIV","Côte d'Ivoire","CIV.9_1","Sassandra-Marahoué","CIV.9.1_1","Haut-Sassandra",1611616.19485188,0,0,2020
+"CIV","Côte d'Ivoire","CIV.9_1","Sassandra-Marahoué","CIV.9.2_1","Marahoué",1154179.56698999,0,0,2020
+"CIV","Côte d'Ivoire","CIV.10_1","Savanes","CIV.10.1_1","Bagoué",446694.256564617,0,0,2020
+"CIV","Côte d'Ivoire","CIV.10_1","Savanes","CIV.10.2_1","Poro",941454.359937191,0,0,2020
+"CIV","Côte d'Ivoire","CIV.10_1","Savanes","CIV.10.3_1","Tchologo",588869.606876552,0,0,2020
+"CIV","Côte d'Ivoire","CIV.11_1","Vallée du Bandama","CIV.11.1_1","Gbeke",1081416.19291115,0,0,2020
+"CIV","Côte d'Ivoire","CIV.11_1","Vallée du Bandama","CIV.11.2_1","Hambol",503559.40863049,0,0,2020
+"CIV","Côte d'Ivoire","CIV.12_1","Woroba","CIV.12.1_1","Bafing",203237.40214324,0,0,2020
+"CIV","Côte d'Ivoire","CIV.12_1","Woroba","CIV.12.2_1","Béré",498965.135587215,0,0,2020
+"CIV","Côte d'Ivoire","CIV.12_1","Woroba","CIV.12.3_1","Worodougou",318979.25218749,0,0,2020
+"CIV","Côte d'Ivoire","CIV.13_1","Yamoussoukro","CIV.13.1_1","Yamoussoukro",405161.917465568,0,0,2020
+"CIV","Côte d'Ivoire","CIV.14_1","Zanzan","CIV.14.1_1","Bounkani",315329.242536165,0,0,2020
+"CIV","Côte d'Ivoire","CIV.14_1","Zanzan","CIV.14.2_1","Gontougo",729393.702921867,0,0,2020
+"CMR","Cameroon","CMR.1_1","Adamaoua","CMR.1.1_1","Djerem",228821.045021489,0,0,2020
+"CMR","Cameroon","CMR.1_1","Adamaoua","CMR.1.2_1","Faro et Déo",130662.93898952,0,0,2020
+"CMR","Cameroon","CMR.1_1","Adamaoua","CMR.1.3_1","Mayo Banyo",326959.377842098,0,0,2020
+"CMR","Cameroon","CMR.1_1","Adamaoua","CMR.1.4_1","Mbéré",245081.335372925,0,0,2020
+"CMR","Cameroon","CMR.1_1","Adamaoua","CMR.1.5_1","Vina",532142.606695056,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.1_1","Haute Sanaga",122943.796289086,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.2_1","Lekié",216232.901235104,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.3_1","Mbam et Inoubou",220353.661329389,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.4_1","Mbam et Kim",196213.530656695,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.5_1","Mefou et Afamba",1238661.58860159,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.6_1","Mefou et Akono",563468.354051113,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.7_1","Mfoundi",2821941.41305542,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.8_1","Nyong et Kéllé",162792.295021534,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.9_1","Nyong et Mfoumou",117260.26119411,0,0,2020
+"CMR","Cameroon","CMR.2_1","Centre","CMR.2.10_1","Nyong et So'o",142388.526410103,0,0,2020
+"CMR","Cameroon","CMR.3_1","Est","CMR.3.1_1","Boumba et Ngoko",149245.819392025,0,0,2020
+"CMR","Cameroon","CMR.3_1","Est","CMR.3.2_1","Haut Nyong",252155.519408226,0,0,2020
+"CMR","Cameroon","CMR.3_1","Est","CMR.3.3_1","Kadey",243083.39737916,0,0,2020
+"CMR","Cameroon","CMR.3_1","Est","CMR.3.4_1","Lom et Djerem",423273.367509723,0,0,2020
+"CMR","Cameroon","CMR.4_1","Extrême-Nord","CMR.4.1_1","Diamaré",979335.710092545,0,0,2020
+"CMR","Cameroon","CMR.4_1","Extrême-Nord","CMR.4.2_1","Logone et Chari",711112.721755415,0,0,2020
+"CMR","Cameroon","CMR.4_1","Extrême-Nord","CMR.4.3_1","Mayo Danay",664470.352881551,0,0,2020
+"CMR","Cameroon","CMR.4_1","Extrême-Nord","CMR.4.4_1","Mayo Kani",652127.011480331,0,0,2020
+"CMR","Cameroon","CMR.4_1","Extrême-Nord","CMR.4.5_1","Mayo Sava",458285.853755951,0,0,2020
+"CMR","Cameroon","CMR.4_1","Extrême-Nord","CMR.4.6_1","Mayo Tsanaga",1121394.62021255,0,0,2020
+"CMR","Cameroon","CMR.5_1","Littoral","CMR.5.1_1","Moungo",661624.680505157,0,0,2020
+"CMR","Cameroon","CMR.5_1","Littoral","CMR.5.2_1","Nkam",52010.0513302684,0,0,2020
+"CMR","Cameroon","CMR.5_1","Littoral","CMR.5.3_1","Sanaga Maritime",429586.895884573,0,0,2020
+"CMR","Cameroon","CMR.5_1","Littoral","CMR.5.4_1","Wouri",3261736.83862877,0,0,2020
+"CMR","Cameroon","CMR.7_1","Nord","CMR.7.1_1","Bénoué",1646412.72370341,0,0,2020
+"CMR","Cameroon","CMR.7_1","Nord","CMR.7.2_1","Faro",100361.749470353,0,0,2020
+"CMR","Cameroon","CMR.7_1","Nord","CMR.7.3_1","Mayo Louti",670352.86324501,0,0,2020
+"CMR","Cameroon","CMR.7_1","Nord","CMR.7.4_1","Mayo Rey",729251.017146319,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.1_1","Boyo",151833.320830345,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.2_1","Bui",458737.37353611,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.3_1","Donga Mantung",321173.320908546,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.4_1","Menchum",214139.3442626,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.5_1","Mezam",761156.44593811,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.6_1","Momo",172617.998076439,0,0,2020
+"CMR","Cameroon","CMR.6_1","Nord-Ouest","CMR.6.7_1","Ngo Ketunjia",273951.257668614,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.1_1","Bamboutos",417416.141313553,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.2_1","Haut Nkam",133232.054857492,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.3_1","Hauts Plateaux",79914.4248085022,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.4_1","Koung Khi",49971.5848026276,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.5_1","Menoua",342327.672233582,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.6_1","Mifi",358547.243759155,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.7_1","Ndé",110543.895532966,0,0,2020
+"CMR","Cameroon","CMR.8_1","Ouest","CMR.8.8_1","Noun",658588.494205877,0,0,2020
+"CMR","Cameroon","CMR.10_1","Sud","CMR.10.1_1","Dja et Lobo",294950.238345265,0,0,2020
+"CMR","Cameroon","CMR.10_1","Sud","CMR.10.2_1","Mvila",248692.37778616,0,0,2020
+"CMR","Cameroon","CMR.10_1","Sud","CMR.10.3_1","Océan",311564.395971775,0,0,2020
+"CMR","Cameroon","CMR.10_1","Sud","CMR.10.4_1","Vallée du Ntem",121537.518780231,0,0,2020
+"CMR","Cameroon","CMR.9_1","Sud-Ouest","CMR.9.1_1","Fako",821087.112287521,0,0,2020
+"CMR","Cameroon","CMR.9_1","Sud-Ouest","CMR.9.2_1","Koupé Manengouba",135116.380892754,0,0,2020
+"CMR","Cameroon","CMR.9_1","Sud-Ouest","CMR.9.3_1","Lebialem",125382.026592255,0,0,2020
+"CMR","Cameroon","CMR.9_1","Sud-Ouest","CMR.9.4_1","Manyu",263314.438720465,0,0,2020
+"CMR","Cameroon","CMR.9_1","Sud-Ouest","CMR.9.5_1","Meme",493121.428520203,0,0,2020
+"CMR","Cameroon","CMR.9_1","Sud-Ouest","CMR.9.6_1","Ndian",149818.918438327,0,0,2020

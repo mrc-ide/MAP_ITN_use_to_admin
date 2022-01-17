@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "BWA","Botswana","BWA.1_1","Central",682436.674943745,8.16821159352406e-05,4.39580254169423e-05,2020
 "BWA","Botswana","BWA.2_1","Chobe",26796.5966437459,0.000346585876283015,0.000371671465609784,2020
 "BWA","Botswana","BWA.3_1","Francistown",67886.322022438,0,0,2020

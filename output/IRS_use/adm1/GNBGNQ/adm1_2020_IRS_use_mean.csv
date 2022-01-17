@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "GNB","Guinea-Bissau","GNB.1_1","Bafatá",247584.971262693,0,0,2020
 "GNB","Guinea-Bissau","GNB.2_1","Biombo",143315.583922625,0,0,2020
 "GNB","Guinea-Bissau","GNB.3_1","Bissau",380589.709217072,0,0,2020

@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "MRT","Mauritania","MRT.1_1","Adrar",60635.6196349934,0.106705898146959,0.310314126979514,2020
 "MRT","Mauritania","MRT.2_1","Assaba",382539.516026214,0.363126144983695,0.378538702342316,2020
 "MRT","Mauritania","MRT.3_1","Brakna",359243.551384851,0.320694933460773,0.373388724236747,2020

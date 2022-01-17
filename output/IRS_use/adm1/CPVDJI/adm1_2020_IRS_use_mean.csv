@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "CPV","Cape Verde","CPV.1_1","Boa Vista",16716.8362665176,NA,0,2020
 "CPV","Cape Verde","CPV.2_1","Brava",3214.36983108521,NA,0,2020
 "CPV","Cape Verde","CPV.3_1","Maio",5726.63105416298,NA,0,2020

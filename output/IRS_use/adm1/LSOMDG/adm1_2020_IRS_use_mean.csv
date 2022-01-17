@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "LSO","Lesotho","LSO.1_1","Berea",297544.455370188,0.0165434541887845,0.0170253226028938,2020
 "LSO","Lesotho","LSO.2_1","Butha-Buthe",96068.0062103271,0.00702173234690185,0.00833704166071528,2020
 "LSO","Lesotho","LSO.3_1","Leribe",268017.693337917,0.0123044910827932,0.0129407644424578,2020

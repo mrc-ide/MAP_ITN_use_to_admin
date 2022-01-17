@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "KEN","Kenya","KEN.1_1","Baringo",804401.317004882,0.472439018830861,0.447756431418669,2020
 "KEN","Kenya","KEN.2_1","Bomet",1130100.43026499,0.349860245248546,0.359302751086054,2020
 "KEN","Kenya","KEN.3_1","Bungoma",2046278.91822019,0.587888473458588,0.611732703130797,2020

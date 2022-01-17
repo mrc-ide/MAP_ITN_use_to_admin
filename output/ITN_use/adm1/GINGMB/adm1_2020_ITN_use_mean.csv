@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "GIN","Guinea","GIN.1_1","Boké",1185493.58073589,0.550286256080987,0.58587984208943,2020
 "GIN","Guinea","GIN.2_1","Conakry",1669485.484447,0.389362867921591,0.365135037383947,2020
 "GIN","Guinea","GIN.3_1","Faranah",1087046.42024875,0.708936903250993,0.711753257417222,2020

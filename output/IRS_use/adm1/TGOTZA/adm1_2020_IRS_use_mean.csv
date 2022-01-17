@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "TGO","Togo","TGO.1_1","Centre",851695.857635498,0,0,2020
 "TGO","Togo","TGO.2_1","Kara",931589.149037838,0,0,2020
 "TGO","Togo","TGO.3_1","Maritime",3792645.07204819,0,0,2020

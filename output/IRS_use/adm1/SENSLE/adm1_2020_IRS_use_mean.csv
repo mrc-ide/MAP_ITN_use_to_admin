@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "SEN","Senegal","SEN.1_1","Dakar",3335467.60921478,0,0,2020
 "SEN","Senegal","SEN.2_1","Diourbel",1799956.44056129,0,0,2020
 "SEN","Senegal","SEN.3_1","Fatick",869935.277287126,0,0,2020

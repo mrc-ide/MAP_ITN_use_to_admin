@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "NER","Niger","NER.1_1","Agadez",671296.369556883,0,0,2020
 "NER","Niger","NER.2_1","Diffa",889355.058534212,0,0,2020
 "NER","Niger","NER.3_1","Dosso",2552224.34229946,0,0,2020

@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "GAB","Gabon","GAB.1_1","Estuaire",1059535.39715238,0,0,2020
 "GAB","Gabon","GAB.2_1","Haut-Ogooué",808008.175807536,0,0,2020
 "GAB","Gabon","GAB.3_1","Moyen-Ogooué",109178.838597067,0,0,2020

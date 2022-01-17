@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "ERI","Eritrea","ERI.1_1","Anseba",623219.171703339,0.0101354582203103,0.0101545598947364,2020
 "ERI","Eritrea","ERI.2_1","Debub",1099148.63852596,0.0126974816332305,0.0119919692921594,2020
 "ERI","Eritrea","ERI.3_1","Debubawi Keyih Bahri",108017.713330586,0.0127616164794984,0.0128121078172362,2020

@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "MWI","Malawi","MWI.1_1","Balaka",403957.480689526,0,0,2020
 "MWI","Malawi","MWI.2_1","Blantyre",1284095.60390365,0,0,2020
 "MWI","Malawi","MWI.3_1","Chikwawa",562127.318711048,0,0,2020

@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "SYC","Seychelles","SYC.1_1","Anse aux Pins",0,NA,NA,2020
 "SYC","Seychelles","SYC.2_1","Anse Boileau",8442.22648620605,NA,0,2020
 "SYC","Seychelles","SYC.3_1","Anse Étoile",0,NA,NA,2020

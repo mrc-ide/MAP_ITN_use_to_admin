@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "RWA","Rwanda","RWA.1_1","Amajyaruguru",1903021.45274544,0,0,2020
 "RWA","Rwanda","RWA.2_1","Amajyepfo",3129110.68286228,0.146818344653757,0.170928858831213,2020
 "RWA","Rwanda","RWA.3_1","Iburasirazuba",3808058.89027625,0.169120043448117,0.173872170774615,2020

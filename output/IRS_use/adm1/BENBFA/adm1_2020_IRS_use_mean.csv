@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "BEN","Benin","BEN.1_1","Alibori",1197983.46787262,0.242166624899747,0.226337576053777,2020
 "BEN","Benin","BEN.2_1","Atakora",1035398.63365936,0.160932209606122,0.123802550794825,2020
 "BEN","Benin","BEN.3_1","Atlantique",2058978.81917858,0,0,2020

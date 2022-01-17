@@ -1,7 +1,7 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted"
-"STP","São Tomé and Príncipe","STP.1_1","Príncipe",6591.27982330322,0,0
-"STP","São Tomé and Príncipe","STP.2_1","São Tomé",122582.277107239,0,0
-"SWZ","Swaziland","SWZ.1_1","Hhohho",308032.927072823,0,0
-"SWZ","Swaziland","SWZ.2_1","Lubombo",213705.099897549,0.00194915537079577,0.00125694246264876
-"SWZ","Swaziland","SWZ.3_1","Manzini",366739.684848785,0,0
-"SWZ","Swaziland","SWZ.4_1","Shiselweni",191982.417162776,0,0
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
+"STP","São Tomé and Príncipe","STP.1_1","Príncipe",6591.27982330322,0,0,2020
+"STP","São Tomé and Príncipe","STP.2_1","São Tomé",122582.277107239,0,0,2020
+"SWZ","Swaziland","SWZ.1_1","Hhohho",308032.927072823,0,0,2020
+"SWZ","Swaziland","SWZ.2_1","Lubombo",213705.099897549,0.00194915537079577,0.00125694246264876,2020
+"SWZ","Swaziland","SWZ.3_1","Manzini",366739.684848785,0,0,2020
+"SWZ","Swaziland","SWZ.4_1","Shiselweni",191982.417162776,0,0,2020

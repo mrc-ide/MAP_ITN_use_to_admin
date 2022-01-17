@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "UGA","Uganda","UGA.1_1","Adjumani",246593.044848084,0.172850244368116,0.177247299000132,2020
 "UGA","Uganda","UGA.2_1","Apac",1196664.87300992,0.153801814845351,0.162951301052105,2020
 "UGA","Uganda","UGA.3_1","Arua",1365665.30942106,0.0836395248663254,0.0664588084429889,2020

@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "ZMB","Zambia","ZMB.1_1","Central",2363347.37950947,0.331794183883713,0.253655381054264,2020
 "ZMB","Zambia","ZMB.2_1","Copperbelt",2565138.293046,0.295056687961148,0.291729298924135,2020
 "ZMB","Zambia","ZMB.3_1","Eastern",2118191.26912349,0.24449693918191,0.263984752815902,2020

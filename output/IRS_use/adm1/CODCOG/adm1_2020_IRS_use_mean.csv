@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "COD","Democratic Republic of the Congo","COD.1_1","Bas-Uélé",1504147.71519624,0,0,2020
 "COD","Democratic Republic of the Congo","COD.2_1","Équateur",2403361.6974444,0,0,2020
 "COD","Democratic Republic of the Congo","COD.3_1","Haut-Katanga",10650248.6762778,0.00052174901844009,0.000413412380498007,2020

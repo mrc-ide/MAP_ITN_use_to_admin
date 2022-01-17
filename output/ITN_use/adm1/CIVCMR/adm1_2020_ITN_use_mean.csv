@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "CIV","Côte d'Ivoire","CIV.1_1","Abidjan",5436150.55575085,0.501635561190029,0.479754163298677,2020
 "CIV","Côte d'Ivoire","CIV.2_1","Bas-Sassandra",2637842.54113507,0.463730559622907,0.471452203915187,2020
 "CIV","Côte d'Ivoire","CIV.3_1","Comoé",1332591.86239225,0.468223692339235,0.455943305879168,2020

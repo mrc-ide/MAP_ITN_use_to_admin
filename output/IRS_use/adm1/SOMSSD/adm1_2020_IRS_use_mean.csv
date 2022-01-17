@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "SOM","Somalia","SOM.1_1","Awdal",440921.13026166,0.00654407716084078,0.00583247612363333,2020
 "SOM","Somalia","SOM.2_1","Bakool",452912.043454647,0.0640869856953075,0.0601045850769595,2020
 "SOM","Somalia","SOM.3_1","Banaadir",988472.377876282,0.0196803331907306,0.0149267310221998,2020

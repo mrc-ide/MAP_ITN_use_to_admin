@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "MLI","Mali","MLI.1_1","Bamako",3166166.00222778,0.766586800416311,0.766041398441181,2020
 "MLI","Mali","MLI.2_1","Gao",912983.694678411,0.580577547687038,0.721715259886558,2020
 "MLI","Mali","MLI.3_1","Kayes",2931603.5198349,0.871590348089193,0.860437481473879,2020

@@ -1,4 +1,4 @@
-"GID_0","NAME_0","GID_1","NAME_1","population","ITN_coverage_mean","ITN_coverage_pop_weighted","year"
+"GID_0","NAME_0","GID_1","NAME_1","population","coverage_mean","coverage_pop_weighted","year"
 "AGO","Angola","AGO.1_1","Bengo",630423.812533811,0,0,2020
 "AGO","Angola","AGO.2_1","Benguela",1910804.06391013,0,0,2020
 "AGO","Angola","AGO.3_1","Bié",1079362.39245036,0,0,2020

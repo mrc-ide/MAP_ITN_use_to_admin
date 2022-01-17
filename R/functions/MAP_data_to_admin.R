@@ -38,7 +38,6 @@ MAP_data_to_admin <- function(ISO, admin_level, year, type, data_type){
   
   message("MAP data loaded")
 
-  
   #This section is done to make sure that the population and MAP raster are identical in projection, extent and number of cells in order
   #to accurately create a population weighted dataset
   
